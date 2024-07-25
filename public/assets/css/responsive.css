@@ -1,0 +1,5357 @@
+@media only screen and (min-width:1000px) and (max-width:1150px) {
+	#myModal-2 .modal-body {
+		padding: 1rem;
+	}
+
+	.modal-heading h1 {
+		font-size: 20px;
+	}
+
+	.edit-in_txt-2 {
+		height: 30px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 0px 8px;
+	}
+
+	.edit-in_txt-5 {
+		height: 100px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 8px;
+	}
+
+	.select-selected {
+		padding: 8px 0px;
+	}
+
+	.select-items div {
+		padding: 8px 10px;
+	}
+
+	#sidebar .side-menu li p {
+		left: 75px;
+	}
+
+	.influ-btn i {
+		margin-right: 5px;
+	}
+
+	.influ-table-btn {
+		padding: 4px 20px;
+		font-size: 12px;
+	}
+
+	.influ-strip-2 {
+		align-items: stretch;
+		margin-bottom: 20px;
+		flex-direction: column;
+	}
+
+	.influ-search {
+		margin-bottom: 15px;
+	}
+
+	.influ-btns form {
+		display: inherit;
+		text-align: center;
+	}
+
+	.influ-btn {
+		width: 100%;
+		font-size: 12px;
+		margin-left: 0px;
+		display: inline-flex;
+		flex-wrap: nowrap;
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: center;
+		margin-bottom: 4px;
+	}
+
+	.menu-btn {
+		font-size: 25px;
+		margin: auto;
+	}
+
+	.sidebar-nav {
+		height: 100%;
+		width: 90%;
+	}
+
+	#wrapper.toggled {
+		padding-left: 0;
+	}
+
+	#wrapper {
+		padding-left: 320px;
+	}
+
+	#wrapper.toggled #sidebar-wrapper {
+		width: 320px;
+		transform: translateX(-320px);
+	}
+
+	#sidebar-wrapper {
+		width: 320px;
+		height: 100%;
+		position: fixed;
+		transform: translateX(0px);
+	}
+
+	.influ-table p {
+		font-size: 13px;
+		color: #B07D3C;
+		text-align: center;
+		margin: 10px 0px;
+	}
+
+	.influ-btns form input[type="date"] {
+		width: 100%;
+	}
+
+	.influ-btns form input[type="date"]::before {
+		top: 5px;
+		right: 25px;
+	}
+
+	.influ-btns form label {
+		width: 49%;
+		margin: 0px 0px 4px 0px;
+	}
+
+	.influ-btns form input[type="date"]::-webkit-calendar-picker-indicator {
+		width: 100px;
+		left: 0;
+	}
+
+	.modal-dialog {
+		width: 40% !important;
+		margin: 0rem auto;
+	}
+
+	#myModal-2 .modal-dialog {
+		width: 90% !important;
+		margin: 0rem auto;
+	}
+
+	.logout-in i {
+		font-size: 50px;
+	}
+
+	.logout-in p {
+		font-size: 14px;
+		margin: 22px 0;
+	}
+
+	.logout-in-btn {
+		padding: 10px 30px;
+		font-size: 13px;
+		margin: 0 5px;
+	}
+
+	#page-content-wrapper {
+		position: fixed;
+	}
+
+	.influ-btns form select {
+		width: 100%;
+		margin-left: 0px;
+		margin-bottom: 4px;
+		padding: 5px;
+	}
+
+	.login-in {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		flex-direction: row;
+	}
+
+	.login-logo {
+		flex: 50%;
+		padding: 20px 0px;
+		border-radius: 10px 0px 0px 10px;
+	}
+
+	.logo img {
+		width: 100px;
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	.logo h1 {
+		font-size: 25px;
+		margin: 0;
+		font-weight: 500;
+	}
+
+	.login-form {
+		flex: 50%;
+		width: 100%;
+		height: 100%;
+		padding: 30px 10px;
+		border-radius: 0px 10px 10px 0px;
+	}
+
+	.login-form form {
+		width: 100%;
+		padding: 20px 10px;
+	}
+
+	.login-form-2 {
+		padding: 50px 10px !important;
+	}
+
+	.login-form form h1 {
+		font-size: 17px;
+		margin: 0px 0px 15px 0px;
+	}
+
+	.login-txt {
+		height: 30px;
+		margin-bottom: 10px;
+		font-size: 12px;
+		padding: 0px 15px;
+	}
+
+	.login-labl {
+		margin: 10px 0 15px 0;
+		font-size: 11px;
+	}
+
+	.login-rmb {
+		margin-right: 5px;
+		width: 10px;
+		margin-top: 1px;
+	}
+
+	.login-btn {
+		height: 30px;
+		font-size: 14px;
+		font-weight: 600;
+	}
+
+	.login-succ {
+		border-radius: 15px;
+		padding: 20px 10px;
+	}
+
+	.login-succ i {
+		font-size: 28px;
+		padding: 15px;
+		margin-bottom: 15px;
+	}
+
+	.login-succ h1 {
+		font-size: 20px;
+	}
+
+	.login-succ p {
+		font-size: 16px;
+		margin: 20px 0px;
+	}
+
+	.login-succ a {
+		padding: 6px 26px;
+		font-size: 14px;
+	}
+
+	#sidebar.hide {
+		width: 50px;
+	}
+
+	#sidebar .brand img {
+		width: 30px;
+	}
+
+	#content main {
+		padding: 12px;
+	}
+
+	#sidebar.hide ~ #content {
+		width: calc(100% - 50px);
+		left: 50px;
+	}
+
+	.influ-btn input {
+		text-align: left;
+	}
+
+	.influ-btn input::placeholder {
+		font-size: 12px;
+	}
+
+	#sidebar {
+		width: 220px;
+	}
+
+	#content {
+		width: calc(100% - 60px);
+		left: 220px;
+	}
+
+	#sidebar .side-menu li {
+		height: 35px;
+		margin-left: 8px;
+		margin-bottom: 10px;
+	}
+
+	#sidebar .side-menu li a {
+		font-size: 12px;
+		padding-left: 16px;
+	}
+
+	#sidebar .side-menu li a i {
+		margin-right: 13px;
+		font-size: 15px;
+	}
+
+	.influ-btns form button i {
+		font-size: 14px;
+	}
+
+	.influ-table table tr td a {
+		display: inline-block;
+		margin: 5px 5px 5px 5px;
+	}
+
+	.influ-pagi ul li {
+		margin: 0 7px;
+	}
+
+	.influ-pagi ul li a {
+		font-size: 13px;
+	}
+
+	.influ-pagi ul li.active a {
+		font-size: 14px;
+		font-weight: 700;
+	}
+
+	#sidebar .brand {
+		font-size: 20px;
+		padding-left: 12px;
+	}
+
+	.influ-table table tr th {
+		font-size: 12px;
+		padding: 5px;
+	}
+
+	.influ-table table tr td {
+		font-size: 11px;
+		padding: 5px;
+	}
+
+	.modal-dialog-2 {
+		max-width: 280px;
+		margin: 4.75rem auto;
+	}
+
+	.edit-in_txt {
+		height: 30px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.edit-in_txtarea {
+		height: 80px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.login-form form a {
+		font-size: 12px;
+	}
+
+	.login-form form p {
+		font-size: 12px;
+	}
+
+	.login-txt i {
+		font-size: 16px;
+	}
+
+	.login-txt img {
+		width: 10px;
+	}
+
+	.user-dashboard {
+		height: 300px;
+		padding: 50px 0;
+	}
+
+	.wallet {
+		right: 0;
+		top: 20px;
+		left: inherit;
+		padding: 0 20px;
+		text-align: center;
+		align-items: center;
+	}
+
+	.wallet h1 {
+		font-size: 15px;
+		padding: 10px 20px;
+	}
+
+	.wallet h1 p span {
+		left: -230px;
+		top: -20px;
+		padding: 5px;
+	}
+
+	.wallet h1 p span:before {
+		top: 8px;
+	}
+
+	.wallet a {
+		font-size: 15px;
+		padding: 10px 20px;
+	}
+
+	.user-heading {
+		padding-bottom: 0px;
+	}
+
+	.user-heading h1 {
+		font-size: 40px;
+	}
+
+	.user-heading h2 {
+		font-size: 50px;
+	}
+
+	.welcom-wrap {
+		padding: 20px 0;
+	}
+
+	.welcom-in h1 {
+		font-size: 45px;
+		margin-bottom: 25px;
+	}
+
+	.welcom-in p {
+		font-size: 16px;
+		margin-bottom: 15px;
+		line-height: 30px;
+		text-align: center;
+	}
+
+	.welcom-in h2 {
+		font-size: 30px;
+		margin-bottom: 30px;
+	}
+
+	.welcom-in a {
+		font-size: 16px;
+		padding: 10px 30px;
+	}
+
+	.welcom-wrap img {
+		width: 30%;
+		left: 20px;
+		top: 10%;
+		right: auto;
+		margin: auto;
+		opacity: 0.2;
+	}
+
+	.quiz-wrap {
+		padding: 20px 0;
+	}
+
+	.quiz-in h1 {
+		font-size: 45px;
+		margin: 20px 0 40px 0;
+	}
+
+	.quiz-box {
+		width: 900px;
+		height: 335px;
+		padding: 0px 50px;
+		background-size: cover;
+	}
+
+	.quiz-box h2 {
+		font-size: 16px;
+	}
+
+	.quiz-box p {
+		padding: 10px 20px;
+		font-size: 15px;
+		margin-bottom: 30px;
+	}
+
+	.quiz-box p span {
+		font-size: 15px;
+	}
+
+	.quiz-box p span img {
+		width: 20px;
+		margin-left: 10px;
+	}
+
+	.quiz-box a {
+		font-size: 16px;
+		padding: 10px 30px;
+	}
+
+	.doct-wrap {
+		padding: 20px 0;
+	}
+
+	.doc-left {
+		margin-top: 80px;
+		width: 100%;
+		overflow: hidden;
+	}
+
+	.doc-left-img-1 {
+		width: 100%;
+	}
+
+	.doc-left-img-2 {
+		width: 70%;
+	}
+
+	.doc-left-logo {
+		width: 110px;
+		padding: 10px;
+	}
+
+	.doc-right {
+		width: 100%;
+		margin-top: 40px;
+	}
+
+	.resources-wrap {
+		padding: 10px 0 20px 0;
+	}
+
+	.resources-in {
+		margin-bottom: 20px;
+		margin-top: 15px;
+	}
+
+	.resources-in h1 {
+		font-size: 45px;
+	}
+
+	.accordion button {
+		padding: 12px 20px;
+	}
+
+	.accordion button .accordion-title {
+		font-size: 14px;
+		padding-right: 30px;
+	}
+
+	.accordion .accordion-content p {
+		font-size: 13px;
+		padding: 10px;
+		line-height: 22px;
+	}
+
+	.resources-in a {
+		font-size: 16px;
+		padding: 10px 30px;
+		margin-top: 0px;
+	}
+
+	.still-wrap {
+		padding: 70px 0;
+	}
+
+	.still-in h1 {
+		font-size: 35px;
+		margin-bottom: 25px;
+	}
+
+	.still-in a {
+		font-size: 16px;
+		padding: 10px 30px;
+	}
+
+	.user-footer {
+		padding: 30px 0 20px 0;
+	}
+
+	.user-footer-in {
+		flex-basis: 33%;
+		margin-bottom: 0px;
+	}
+
+	.user-footer-in:nth-child(1) {
+		padding: 0px 50px 0px 0px;
+	}
+
+	.user-footer-in:nth-child(2) {
+		padding: 0 50px;
+	}
+
+	.user-footer-in:nth-child(3) {
+		padding: 0px 0px 0px 50px;
+		margin-bottom: 0px;
+	}
+
+	.user-footer-in img {
+		width: 60px;
+		margin-bottom: 15px;
+	}
+
+	.user-footer-in p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.user-footer-in h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.user-footer-in ul li a {
+		font-size: 13px;
+	}
+
+	#myModal-2 .modal-dialog-edit {
+		max-width: 700px !important;
+		margin: 1rem auto !important;
+	}
+
+	.edit-in form label {
+		flex-wrap: wrap;
+		justify-content: space-between;
+		gap: 10px 5px;
+		font-size: 12px;
+	}
+
+	.edit-in_txt-choose {
+		padding: 10px 10px;
+	}
+
+	.edit-in form label img {
+		width: 24%;
+		height: auto;
+		object-fit: cover;
+	}
+
+	.page-heading {
+		padding: 20px 0;
+	}
+
+	.page-heading-in a {
+		margin-right: 15px;
+	}
+
+	.page-heading-in a i {
+		font-size: 22px;
+	}
+
+	.page-heading-in h1 {
+		font-size: 25px;
+	}
+
+	.page-inner {
+		padding: 10px;
+	}
+
+	.faq-wrap {
+		display: flex;
+		gap: 20px;
+		flex-direction: row;
+	}
+
+	.faq-left {
+		width: 30%;
+	}
+
+	.faq-right {
+		width: 70%;
+	}
+
+	#accordion h1 {
+		font-size: 16px;
+		padding: 20px 15px;
+	}
+
+	#accordion h1 img {
+		width: 20px;
+		margin-right: 10px;
+	}
+
+	#accordion .panel-title-2 ul li a {
+		padding: 15px 0px 15px 40px;
+		font-size: 14px;
+	}
+
+	#accordion .panel-title a {
+		padding: 15px 0px 15px 40px;
+		font-size: 14px;
+	}
+
+	#accordion .panel-body ul {
+		padding: 20px 0px 20px 30px;
+	}
+
+	#accordion .panel-body ul li {
+		margin: 0px 0px 10px 20px;
+	}
+
+	#accordion .panel-body ul li a {
+		font-size: 14px;
+	}
+
+	#accordion .panel-title a:before, #accordion .panel-title a.collapsed:before {
+		font-size: 10px;
+		right: 15px;
+	}
+
+	.faq-right h1 {
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+
+	.accordion .accordion-item {
+		border-radius: 5px;
+		margin-bottom: 15px;
+	}
+
+	.terms-in h1 {
+		font-size: 16px;
+		padding: 12px;
+		line-height: normal;
+		border-radius: 5px 5px 0px 0px;
+	}
+
+	.terms-in p {
+		font-size: 13px;
+		line-height: 20px;
+		padding: 10px;
+		text-align: justify;
+		border-radius: 0px 0px 5px 5px;
+	}
+
+	.pass-succ {
+		border-radius: 10px;
+		padding: 20px 15px;
+	}
+
+	.pass-succ i {
+		font-size: 20px;
+		padding: 20px;
+		margin-bottom: 10px;
+	}
+
+	.pass-succ h1 {
+		font-size: 20px;
+		margin: 10px 0 10px 0;
+	}
+
+	.pass-succ p {
+		font-size: 14px;
+		margin: 10px 0;
+	}
+
+	.pass-succ a {
+		padding: 6px 25px;
+		font-size: 14px;
+	}
+
+	.password-eye {
+		top: 7px;
+	}
+
+}
+
+@media only screen and (min-width:800px) and (max-width:999px) {
+	#myModal-2 .modal-body {
+		padding: 1rem;
+	}
+
+	.modal-heading h1 {
+		font-size: 20px;
+	}
+
+	.edit-in_txt-2 {
+		height: 30px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 0px 8px;
+	}
+
+	.edit-in_txt-5 {
+		height: 100px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 8px;
+	}
+
+	.select-selected {
+		padding: 8px 0px;
+	}
+
+	.select-items div {
+		padding: 8px 10px;
+	}
+
+	#sidebar .side-menu li p {
+		left: 75px;
+	}
+
+	.influ-btn i {
+		margin-right: 5px;
+	}
+
+	.influ-table-btn {
+		padding: 4px 20px;
+		font-size: 12px;
+	}
+
+	.influ-strip-2 {
+		align-items: stretch;
+		margin-bottom: 20px;
+		flex-direction: column;
+	}
+
+	.influ-search {
+		margin-bottom: 15px;
+	}
+
+	.influ-btns form {
+		display: inherit;
+		text-align: center;
+	}
+
+	.influ-btn {
+		width: 100%;
+		font-size: 12px;
+		margin-left: 0px;
+		display: inline-flex;
+		flex-wrap: nowrap;
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: center;
+		margin-bottom: 4px;
+	}
+
+	.menu-btn {
+		font-size: 25px;
+		margin: auto;
+	}
+
+	.sidebar-nav {
+		height: 100%;
+		width: 90%;
+	}
+
+	#wrapper.toggled {
+		padding-left: 0;
+	}
+
+	#wrapper {
+		padding-left: 320px;
+	}
+
+	#wrapper.toggled #sidebar-wrapper {
+		width: 320px;
+		transform: translateX(-320px);
+	}
+
+	#sidebar-wrapper {
+		width: 320px;
+		height: 100%;
+		position: fixed;
+		transform: translateX(0px);
+	}
+
+	.influ-table p {
+		font-size: 13px;
+		color: #B07D3C;
+		text-align: center;
+		margin: 10px 0px;
+	}
+
+	.influ-btns form input[type="date"] {
+		width: 100%;
+	}
+
+	.influ-btns form input[type="date"]::before {
+		top: 5px;
+		right: 25px;
+	}
+
+	.influ-btns form label {
+		width: 49%;
+		margin: 0px 0px 4px 0px;
+	}
+
+	.influ-btns form input[type="date"]::-webkit-calendar-picker-indicator {
+		width: 100px;
+		left: 0;
+	}
+
+	.modal-dialog {
+		width: 40% !important;
+		margin: 0rem auto;
+	}
+
+	#myModal-2 .modal-dialog {
+		width: 90% !important;
+		margin: 0rem auto;
+	}
+
+	.logout-in i {
+		font-size: 50px;
+	}
+
+	.logout-in p {
+		font-size: 14px;
+		margin: 22px 0;
+	}
+
+	.logout-in-btn {
+		padding: 10px 30px;
+		font-size: 13px;
+		margin: 0 5px;
+	}
+
+	#page-content-wrapper {
+		position: fixed;
+	}
+
+	.influ-btns form select {
+		width: 100%;
+		margin-left: 0px;
+		margin-bottom: 4px;
+		padding: 5px;
+	}
+
+	.login-in {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		flex-direction: row;
+	}
+
+	.login-logo {
+		flex: 50%;
+		padding: 20px 0px;
+		border-radius: 10px 0px 0px 10px;
+	}
+
+	.logo img {
+		width: 100px;
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	.logo h1 {
+		font-size: 25px;
+		margin: 0;
+		font-weight: 500;
+	}
+
+	.login-form {
+		flex: 50%;
+		width: 100%;
+		height: 100%;
+		padding: 30px 10px;
+		border-radius: 0px 10px 10px 0px;
+	}
+
+	.login-form form {
+		width: 100%;
+		padding: 20px 10px;
+	}
+
+	.login-form-2 {
+		padding: 50px 10px !important;
+	}
+
+	.login-form form h1 {
+		font-size: 17px;
+		margin: 0px 0px 15px 0px;
+	}
+
+	.login-txt {
+		height: 30px;
+		margin-bottom: 10px;
+		font-size: 12px;
+		padding: 0px 15px;
+	}
+
+	.login-labl {
+		margin: 10px 0 15px 0;
+		font-size: 11px;
+	}
+
+	.login-rmb {
+		margin-right: 5px;
+		width: 10px;
+		margin-top: 1px;
+	}
+
+	.login-btn {
+		height: 30px;
+		font-size: 14px;
+		font-weight: 600;
+	}
+
+	.login-succ {
+		border-radius: 15px;
+		padding: 20px 10px;
+	}
+
+	.login-succ i {
+		font-size: 28px;
+		padding: 15px;
+		margin-bottom: 15px;
+	}
+
+	.login-succ h1 {
+		font-size: 20px;
+	}
+
+	.login-succ p {
+		font-size: 16px;
+		margin: 20px 0px;
+	}
+
+	.login-succ a {
+		padding: 6px 26px;
+		font-size: 14px;
+	}
+
+	#sidebar.hide {
+		width: 50px;
+	}
+
+	#sidebar .brand img {
+		width: 30px;
+	}
+
+	#content main {
+		padding: 12px;
+	}
+
+	#sidebar.hide ~ #content {
+		width: calc(100% - 50px);
+		left: 50px;
+	}
+
+	.influ-btn input {
+		text-align: left;
+	}
+
+	.influ-btn input::placeholder {
+		font-size: 12px;
+	}
+
+	#sidebar {
+		width: 220px;
+	}
+
+	#content {
+		width: calc(100% - 60px);
+		left: 220px;
+	}
+
+	#sidebar .side-menu li {
+		height: 35px;
+		margin-left: 8px;
+		margin-bottom: 10px;
+	}
+
+	#sidebar .side-menu li a {
+		font-size: 12px;
+		padding-left: 16px;
+	}
+
+	#sidebar .side-menu li a i {
+		margin-right: 13px;
+		font-size: 15px;
+	}
+
+	.influ-btns form button i {
+		font-size: 14px;
+	}
+
+	.influ-table table tr td a {
+		display: inline-block;
+		margin: 5px 5px 5px 5px;
+	}
+
+	.influ-pagi ul li {
+		margin: 0 7px;
+	}
+
+	.influ-pagi ul li a {
+		font-size: 13px;
+	}
+
+	.influ-pagi ul li.active a {
+		font-size: 14px;
+		font-weight: 700;
+	}
+
+	#sidebar .brand {
+		font-size: 20px;
+		padding-left: 12px;
+	}
+
+	.influ-table table tr th {
+		font-size: 12px;
+		padding: 5px;
+	}
+
+	.influ-table table tr td {
+		font-size: 11px;
+		padding: 5px;
+	}
+
+	.modal-dialog-2 {
+		max-width: 280px;
+		margin: 4.75rem auto;
+	}
+
+	.edit-in_txt {
+		height: 30px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.edit-in_txtarea {
+		height: 80px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.login-form form a {
+		font-size: 12px;
+	}
+
+	.login-form form p {
+		font-size: 12px;
+	}
+
+	.login-txt i {
+		font-size: 16px;
+	}
+
+	.login-txt img {
+		width: 10px;
+	}
+
+	.user-dashboard {
+		height: 300px;
+		padding: 50px 0;
+	}
+
+	.wallet {
+		right: 0;
+		top: 20px;
+		left: inherit;
+		padding: 0 20px;
+		text-align: center;
+		align-items: center;
+	}
+
+	.wallet h1 {
+		font-size: 13px;
+		padding: 6px 15px;
+	}
+
+	.wallet h1 p span {
+		left: -230px;
+		top: -20px;
+		padding: 5px;
+	}
+
+	.wallet h1 p span:before {
+		top: 8px;
+	}
+
+	.wallet a {
+		font-size: 13px;
+		padding: 6px 10px;
+	}
+
+	.user-heading {
+		padding-bottom: 0px;
+	}
+
+	.user-heading h1 {
+		font-size: 30px;
+	}
+
+	.user-heading h2 {
+		font-size: 40px;
+	}
+
+	.welcom-wrap {
+		padding: 40px 0;
+	}
+
+	.welcom-in h1 {
+		font-size: 35px;
+		margin-bottom: 15px;
+	}
+
+	.welcom-in p {
+		font-size: 14px;
+		margin-bottom: 15px;
+		line-height: 25px;
+		text-align: center;
+	}
+
+	.welcom-in h2 {
+		font-size: 25px;
+		margin-bottom: 20px;
+	}
+
+	.welcom-in a {
+		font-size: 14px;
+		padding: 8px 25px;
+	}
+
+	.welcom-wrap img {
+		width: 30%;
+		left: 20px;
+		top: 10%;
+		right: auto;
+		margin: auto;
+		opacity: 0.2;
+	}
+
+	.quiz-wrap {
+		padding: 40px 0;
+	}
+
+	.quiz-in h1 {
+		font-size: 35px;
+		margin: 10px 0 20px 0;
+	}
+
+	.quiz-box {
+		width: 100%;
+		height: 256px;
+		padding: 0px 40px;
+		background-size: cover;
+	}
+
+	.quiz-box h2 {
+		font-size: 13px;
+	}
+
+	.quiz-box p {
+		padding: 5px 10px;
+		font-size: 13px;
+		margin-bottom: 15px;
+	}
+
+	.quiz-box p span {
+		font-size: 13px;
+	}
+
+	.quiz-box p span img {
+		width: 15px;
+		margin-left: 8px;
+	}
+
+	.quiz-box a {
+		font-size: 14px;
+		padding: 8px 25px;
+	}
+
+	.doct-wrap {
+		padding: 20px 0;
+	}
+
+	.doc-left {
+		margin-top: 40px;
+		width: 100%;
+		overflow: hidden;
+	}
+
+	.doc-left-img-1 {
+		width: 100%;
+	}
+
+	.doc-left-img-2 {
+		width: 70%;
+	}
+
+	.doc-left-logo {
+		width: 100px;
+		padding: 10px;
+	}
+
+	.doc-right {
+		width: 100%;
+		margin-top: 30px;
+	}
+
+	.resources-wrap {
+		padding: 10px 0 20px 0;
+	}
+
+	.resources-in {
+		margin-bottom: 20px;
+		margin-top: 15px;
+	}
+
+	.resources-in h1 {
+		font-size: 35px;
+	}
+
+	.accordion button {
+		padding: 8px 10px;
+	}
+
+	.accordion button .accordion-title {
+		font-size: 14px;
+		padding-right: 30px;
+	}
+
+	.accordion .accordion-content p {
+		font-size: 13px;
+		padding: 10px;
+		line-height: 22px;
+	}
+
+	.resources-in a {
+		font-size: 14px;
+		padding: 8px 25px;
+		margin-top: 0px;
+	}
+
+	.still-wrap {
+		padding: 54px 0;
+	}
+
+	.still-in h1 {
+		font-size: 35px;
+		margin-bottom: 25px;
+	}
+
+	.still-in a {
+		font-size: 14px;
+		padding: 8px 25px;
+	}
+
+	.user-footer {
+		padding: 30px 0 20px 0;
+	}
+
+	.user-footer-in {
+		flex-basis: 33%;
+		margin-bottom: 0px;
+	}
+
+	.user-footer-in:nth-child(1) {
+		padding: 0px 20px 0px 0px;
+	}
+
+	.user-footer-in:nth-child(2) {
+		padding: 0 20px;
+	}
+
+	.user-footer-in:nth-child(3) {
+		padding: 0px 0px 0px 20px;
+		margin-bottom: 0px;
+	}
+
+	.user-footer-in img {
+		width: 60px;
+		margin-bottom: 15px;
+	}
+
+	.user-footer-in p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.user-footer-in h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.user-footer-in ul li a {
+		font-size: 13px;
+	}
+
+	#myModal-2 .modal-dialog-edit {
+		max-width: 80% !important;
+		margin: 1rem auto !important;
+	}
+
+	.edit-in form label {
+		flex-wrap: wrap;
+		justify-content: space-between;
+		gap: 10px 5px;
+		font-size: 12px;
+	}
+
+	.edit-in_txt-choose {
+		padding: 10px 10px;
+	}
+
+	.edit-in form label img {
+		width: 24%;
+		height: auto;
+		object-fit: cover;
+	}
+
+	.page-heading {
+		padding: 20px 0;
+	}
+
+	.page-heading-in a {
+		margin-right: 15px;
+	}
+
+	.page-heading-in a i {
+		font-size: 22px;
+	}
+
+	.page-heading-in h1 {
+		font-size: 25px;
+	}
+
+	.page-inner {
+		padding: 10px;
+	}
+
+	.faq-wrap {
+		display: flex;
+		gap: 20px;
+		flex-direction: row;
+	}
+
+	.faq-left {
+		width: 40%;
+	}
+
+	.faq-right {
+		width: 60%;
+	}
+
+	#accordion h1 {
+		font-size: 13px;
+		padding: 15px 10px;
+	}
+
+	#accordion h1 img {
+		width: 15px;
+		margin-right: 8px;
+	}
+
+	#accordion .panel-title-2 ul li a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-body ul {
+		padding: 10px 0px 10px 20px;
+	}
+
+	#accordion .panel-body ul li {
+		margin: 0px 0px 5px 10px;
+	}
+
+	#accordion .panel-body ul li a {
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a:before, #accordion .panel-title a.collapsed:before {
+		font-size: 10px;
+		right: 15px;
+	}
+
+	.faq-right h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.accordion .accordion-item {
+		border-radius: 5px;
+		margin-bottom: 10px;
+	}
+
+	.terms-in h1 {
+		font-size: 16px;
+		padding: 12px;
+		line-height: normal;
+		border-radius: 5px 5px 0px 0px;
+	}
+
+	.terms-in p {
+		font-size: 13px;
+		line-height: 20px;
+		padding: 10px;
+		text-align: justify;
+		border-radius: 0px 0px 5px 5px;
+	}
+
+	.pass-succ {
+		border-radius: 10px;
+		padding: 20px 15px;
+	}
+
+	.pass-succ i {
+		font-size: 20px;
+		padding: 20px;
+		margin-bottom: 10px;
+	}
+
+	.pass-succ h1 {
+		font-size: 20px;
+		margin: 10px 0 10px 0;
+	}
+
+	.pass-succ p {
+		font-size: 14px;
+		margin: 10px 0;
+	}
+
+	.pass-succ a {
+		padding: 6px 25px;
+		font-size: 14px;
+	}
+
+	.password-eye {
+		top: 7px;
+	}
+
+}
+
+@media only screen and (min-width:768px) and (max-width:799px) {
+	#myModal-2 .modal-body {
+		padding: 1rem;
+	}
+
+	.modal-heading h1 {
+		font-size: 20px;
+	}
+
+	.edit-in_txt-2 {
+		height: 30px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 0px 8px;
+	}
+
+	.edit-in_txt-5 {
+		height: 100px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 8px;
+	}
+
+	.select-selected {
+		padding: 8px 0px;
+	}
+
+	.select-items div {
+		padding: 8px 10px;
+	}
+
+	#sidebar .side-menu li p {
+		left: 75px;
+	}
+
+	.influ-btn i {
+		margin-right: 5px;
+	}
+
+	.influ-table-btn {
+		padding: 4px 20px;
+		font-size: 12px;
+	}
+
+	.influ-strip-2 {
+		align-items: stretch;
+		margin-bottom: 20px;
+		flex-direction: column;
+	}
+
+	.influ-search {
+		margin-bottom: 15px;
+	}
+
+	.influ-btns form {
+		display: inherit;
+		text-align: center;
+	}
+
+	.influ-btn {
+		width: 100%;
+		font-size: 12px;
+		margin-left: 0px;
+		display: inline-flex;
+		flex-wrap: nowrap;
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: center;
+		margin-bottom: 4px;
+	}
+
+	.menu-btn {
+		font-size: 25px;
+		margin: auto;
+	}
+
+	.sidebar-nav {
+		height: 100%;
+		width: 90%;
+	}
+
+	#wrapper.toggled {
+		padding-left: 0;
+	}
+
+	#wrapper {
+		padding-left: 320px;
+	}
+
+	#wrapper.toggled #sidebar-wrapper {
+		width: 320px;
+		transform: translateX(-320px);
+	}
+
+	#sidebar-wrapper {
+		width: 320px;
+		height: 100%;
+		position: fixed;
+		transform: translateX(0px);
+	}
+
+	.influ-table p {
+		font-size: 13px;
+		color: #B07D3C;
+		text-align: center;
+		margin: 10px 0px;
+	}
+
+	.influ-btns form input[type="date"] {
+		width: 100%;
+	}
+
+	.influ-btns form input[type="date"]::before {
+		top: 5px;
+		right: 25px;
+	}
+
+	.influ-btns form label {
+		width: 49%;
+		margin: 0px 0px 4px 0px;
+	}
+
+	.influ-btns form input[type="date"]::-webkit-calendar-picker-indicator {
+		width: 100px;
+		left: 0;
+	}
+
+	.modal-dialog {
+		width: 40% !important;
+		margin: 0rem auto;
+	}
+
+	#myModal-2 .modal-dialog {
+		width: 90% !important;
+		margin: 0rem auto;
+	}
+
+	.logout-in i {
+		font-size: 50px;
+	}
+
+	.logout-in p {
+		font-size: 14px;
+		margin: 22px 0;
+	}
+
+	.logout-in-btn {
+		padding: 5px 25px;
+		font-size: 13px;
+		margin: 0 5px;
+	}
+
+	#page-content-wrapper {
+		position: fixed;
+	}
+
+	.influ-btns form select {
+		width: 100%;
+		margin-left: 0px;
+		margin-bottom: 4px;
+		padding: 5px;
+	}
+
+	.login-in {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		flex-direction: row;
+	}
+
+	.login-logo {
+		flex: 50%;
+		padding: 20px 0px;
+		border-radius: 10px 0px 0px 10px;
+	}
+
+	.logo img {
+		width: 100px;
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	.logo h1 {
+		font-size: 25px;
+		margin: 0;
+		font-weight: 500;
+	}
+
+	.login-form {
+		flex: 50%;
+		width: 100%;
+		height: 100%;
+		padding: 30px 10px;
+		border-radius: 0px 10px 10px 0px;
+	}
+
+	.login-form form {
+		width: 100%;
+		padding: 20px 10px;
+	}
+
+	.login-form-2 {
+		padding: 50px 10px !important;
+	}
+
+	.login-form form h1 {
+		font-size: 17px;
+		margin: 0px 0px 15px 0px;
+	}
+
+	.login-txt {
+		height: 30px;
+		margin-bottom: 10px;
+		font-size: 12px;
+		padding: 0px 15px;
+	}
+
+	.login-labl {
+		margin: 10px 0 15px 0;
+		font-size: 11px;
+	}
+
+	.login-rmb {
+		margin-right: 5px;
+		width: 10px;
+		margin-top: 1px;
+	}
+
+	.login-btn {
+		height: 30px;
+		font-size: 14px;
+		font-weight: 600;
+	}
+
+	.login-succ {
+		border-radius: 15px;
+		padding: 20px 10px;
+	}
+
+	.login-succ i {
+		font-size: 28px;
+		padding: 15px;
+		margin-bottom: 15px;
+	}
+
+	.login-succ h1 {
+		font-size: 20px;
+	}
+
+	.login-succ p {
+		font-size: 16px;
+		margin: 20px 0px;
+	}
+
+	.login-succ a {
+		padding: 6px 26px;
+		font-size: 14px;
+	}
+
+	#sidebar.hide {
+		width: 50px;
+	}
+
+	#sidebar .brand img {
+		width: 30px;
+	}
+
+	#content main {
+		padding: 12px;
+	}
+
+	#sidebar.hide ~ #content {
+		width: calc(100% - 50px);
+		left: 50px;
+	}
+
+	.influ-btn input {
+		text-align: left;
+	}
+
+	.influ-btn input::placeholder {
+		font-size: 12px;
+	}
+
+	#sidebar {
+		width: 220px;
+	}
+
+	#content {
+		width: calc(100% - 60px);
+		left: 220px;
+	}
+
+	#sidebar .side-menu li {
+		height: 35px;
+		margin-left: 8px;
+		margin-bottom: 10px;
+	}
+
+	#sidebar .side-menu li a {
+		font-size: 12px;
+		padding-left: 16px;
+	}
+
+	#sidebar .side-menu li a i {
+		margin-right: 13px;
+		font-size: 15px;
+	}
+
+	.influ-btns form button i {
+		font-size: 14px;
+	}
+
+	.influ-table table tr td a {
+		display: inline-block;
+		margin: 5px 5px 5px 5px;
+	}
+
+	.influ-pagi ul li {
+		margin: 0 7px;
+	}
+
+	.influ-pagi ul li a {
+		font-size: 13px;
+	}
+
+	.influ-pagi ul li.active a {
+		font-size: 14px;
+		font-weight: 700;
+	}
+
+	#sidebar .brand {
+		font-size: 20px;
+		padding-left: 12px;
+	}
+
+	.influ-table table tr th {
+		font-size: 12px;
+		padding: 5px;
+	}
+
+	.influ-table table tr td {
+		font-size: 11px;
+		padding: 5px;
+	}
+
+	.modal-dialog-2 {
+		max-width: 280px;
+		margin: 4.75rem auto;
+	}
+
+	.edit-in_txt {
+		height: 30px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.edit-in_txtarea {
+		height: 80px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.login-form form a {
+		font-size: 12px;
+	}
+
+	.login-form form p {
+		font-size: 12px;
+	}
+
+	.login-txt i {
+		font-size: 16px;
+	}
+
+	.login-txt img {
+		width: 10px;
+	}
+
+	.user-dashboard {
+		height: 300px;
+		padding: 50px 0;
+	}
+
+	.wallet {
+		right: 0;
+		top: 20px;
+		left: inherit;
+		padding: 0 20px;
+		text-align: center;
+		align-items: center;
+	}
+
+	.wallet h1 {
+		font-size: 13px;
+		padding: 6px 15px;
+	}
+
+	.wallet h1 p span {
+		left: -230px;
+		top: -20px;
+		padding: 5px;
+	}
+
+	.wallet h1 p span:before {
+		top: 8px;
+	}
+
+	.wallet a {
+		font-size: 13px;
+		padding: 6px 10px;
+	}
+
+	.user-heading {
+		padding-bottom: 0px;
+	}
+
+	.user-heading h1 {
+		font-size: 30px;
+	}
+
+	.user-heading h2 {
+		font-size: 40px;
+	}
+
+	.welcom-wrap {
+		padding: 20px 0;
+	}
+
+	.welcom-in h1 {
+		font-size: 35px;
+		margin-bottom: 15px;
+	}
+
+	.welcom-in p {
+		font-size: 14px;
+		margin-bottom: 15px;
+		line-height: 25px;
+		text-align: center;
+	}
+
+	.welcom-in h2 {
+		font-size: 25px;
+		margin-bottom: 20px;
+	}
+
+	.welcom-in a {
+		font-size: 14px;
+		padding: 8px 25px;
+	}
+
+	.welcom-wrap img {
+		width: 30%;
+		left: 20px;
+		top: 10%;
+		right: auto;
+		margin: auto;
+		opacity: 0.2;
+	}
+
+	.quiz-wrap {
+		padding: 20px 0;
+	}
+
+	.quiz-in h1 {
+		font-size: 35px;
+		margin: 10px 0 20px 0;
+	}
+
+	.quiz-box {
+		width: 100%;
+		height: 256px;
+		padding: 0px 10px;
+		background-size: cover;
+	}
+
+	.quiz-box h2 {
+		font-size: 13px;
+	}
+
+	.quiz-box p {
+		padding: 5px 10px;
+		font-size: 13px;
+		margin-bottom: 15px;
+	}
+
+	.quiz-box p span {
+		font-size: 13px;
+	}
+
+	.quiz-box p span img {
+		width: 15px;
+		margin-left: 8px;
+	}
+
+	.quiz-box a {
+		font-size: 14px;
+		padding: 8px 25px;
+	}
+
+	.doct-wrap {
+		padding: 20px 0;
+	}
+
+	.doc-left {
+		margin-top: 40px;
+		width: 100%;
+		overflow: hidden;
+	}
+
+	.doc-left-img-1 {
+		width: 100%;
+	}
+
+	.doc-left-img-2 {
+		width: 70%;
+	}
+
+	.doc-left-logo {
+		width: 100px;
+		padding: 10px;
+	}
+
+	.doc-right {
+		width: 100%;
+		margin-top: 30px;
+	}
+
+	.resources-wrap {
+		padding: 10px 0 20px 0;
+	}
+
+	.resources-in {
+		margin-bottom: 20px;
+		margin-top: 15px;
+	}
+
+	.resources-in h1 {
+		font-size: 35px;
+	}
+
+	.accordion button {
+		padding: 8px 10px;
+	}
+
+	.accordion button .accordion-title {
+		font-size: 14px;
+		padding-right: 30px;
+	}
+
+	.accordion .accordion-content p {
+		font-size: 13px;
+		padding: 10px;
+		line-height: 22px;
+	}
+
+	.resources-in a {
+		font-size: 14px;
+		padding: 8px 25px;
+		margin-top: 0px;
+	}
+
+	.still-wrap {
+		padding: 54px 0;
+	}
+
+	.still-in h1 {
+		font-size: 35px;
+		margin-bottom: 25px;
+	}
+
+	.still-in a {
+		font-size: 14px;
+		padding: 8px 25px;
+	}
+
+	.user-footer {
+		padding: 30px 0 20px 0;
+	}
+
+	.user-footer-in {
+		flex-basis: 33%;
+		margin-bottom: 0px;
+	}
+
+	.user-footer-in:nth-child(1) {
+		padding: 0px 20px 0px 0px;
+	}
+
+	.user-footer-in:nth-child(2) {
+		padding: 0 20px;
+	}
+
+	.user-footer-in:nth-child(3) {
+		padding: 0px 0px 0px 20px;
+		margin-bottom: 0px;
+	}
+
+	.user-footer-in img {
+		width: 60px;
+		margin-bottom: 15px;
+	}
+
+	.user-footer-in p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.user-footer-in h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.user-footer-in ul li a {
+		font-size: 13px;
+	}
+
+	#myModal-2 .modal-dialog-edit {
+		max-width: 80% !important;
+		margin: 1rem auto !important;
+	}
+
+	.edit-in form label {
+		flex-wrap: wrap;
+		justify-content: space-between;
+		gap: 10px 5px;
+		font-size: 12px;
+	}
+
+	.edit-in_txt-choose {
+		padding: 10px 10px;
+	}
+
+	.edit-in form label img {
+		width: 24%;
+		height: auto;
+		object-fit: cover;
+	}
+
+	.page-heading {
+		padding: 20px 0;
+	}
+
+	.page-heading-in a {
+		margin-right: 15px;
+	}
+
+	.page-heading-in a i {
+		font-size: 22px;
+	}
+
+	.page-heading-in h1 {
+		font-size: 25px;
+	}
+
+	.page-inner {
+		padding: 10px;
+	}
+
+	.faq-wrap {
+		display: flex;
+		gap: 20px;
+		flex-direction: row;
+	}
+
+	.faq-left {
+		width: 40%;
+	}
+
+	.faq-right {
+		width: 60%;
+	}
+
+	#accordion h1 {
+		font-size: 13px;
+		padding: 15px 10px;
+	}
+
+	#accordion h1 img {
+		width: 15px;
+		margin-right: 8px;
+	}
+
+	#accordion .panel-title-2 ul li a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-body ul {
+		padding: 10px 0px 10px 20px;
+	}
+
+	#accordion .panel-body ul li {
+		margin: 0px 0px 5px 10px;
+	}
+
+	#accordion .panel-body ul li a {
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a:before, #accordion .panel-title a.collapsed:before {
+		font-size: 10px;
+		right: 15px;
+	}
+
+	.faq-right h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.accordion .accordion-item {
+		border-radius: 5px;
+		margin-bottom: 10px;
+	}
+
+	.terms-in h1 {
+		font-size: 16px;
+		padding: 12px;
+		line-height: normal;
+		border-radius: 5px 5px 0px 0px;
+	}
+
+	.terms-in p {
+		font-size: 13px;
+		line-height: 20px;
+		padding: 10px;
+		text-align: justify;
+		border-radius: 0px 0px 5px 5px;
+	}
+
+	.pass-succ {
+		border-radius: 10px;
+		padding: 20px 15px;
+	}
+
+	.pass-succ i {
+		font-size: 20px;
+		padding: 20px;
+		margin-bottom: 10px;
+	}
+
+	.pass-succ h1 {
+		font-size: 20px;
+		margin: 10px 0 10px 0;
+	}
+
+	.pass-succ p {
+		font-size: 14px;
+		margin: 10px 0;
+	}
+
+	.pass-succ a {
+		padding: 6px 25px;
+		font-size: 14px;
+	}
+
+	.password-eye {
+		top: 7px;
+	}
+
+}
+
+@media only screen and (min-width:480px) and (max-width:767px) {
+	#myModal-2 .modal-body {
+		padding: 1rem;
+	}
+
+	.modal-heading h1 {
+		font-size: 20px;
+	}
+
+	.edit-in_txt-2 {
+		height: 30px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 0px 8px;
+	}
+
+	.edit-in_txt-5 {
+		height: 100px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 8px;
+	}
+
+	.select-selected {
+		padding: 8px 0px;
+	}
+
+	.select-items div {
+		padding: 8px 10px;
+	}
+
+	#sidebar .side-menu li p {
+		left: 75px;
+	}
+
+	.influ-btn i {
+		margin-right: 5px;
+	}
+
+	.influ-table-btn {
+		padding: 4px 20px;
+		font-size: 12px;
+	}
+
+	.influ-strip-2 {
+		align-items: stretch;
+		margin-bottom: 20px;
+		flex-direction: column;
+	}
+
+	.influ-search {
+		margin-bottom: 15px;
+	}
+
+	.influ-btns form {
+		display: inherit;
+		text-align: center;
+	}
+
+	.influ-btn {
+		width: 100%;
+		font-size: 12px;
+		margin-left: 0px;
+		display: inline-flex;
+		flex-wrap: nowrap;
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: center;
+		margin-bottom: 4px;
+	}
+
+	.menu-btn {
+		font-size: 25px;
+		margin: auto;
+	}
+
+	.sidebar-nav {
+		height: 100%;
+		width: 90%;
+	}
+
+	#wrapper.toggled {
+		padding-left: 0;
+	}
+
+	#wrapper {
+		padding-left: 320px;
+	}
+
+	#wrapper.toggled #sidebar-wrapper {
+		width: 320px;
+		transform: translateX(-320px);
+	}
+
+	#sidebar-wrapper {
+		width: 320px;
+		height: 100%;
+		position: fixed;
+		transform: translateX(0px);
+	}
+
+	.influ-table p {
+		font-size: 13px;
+		color: #B07D3C;
+		text-align: center;
+		margin: 10px 0px;
+	}
+
+	.influ-btns form input[type="date"] {
+		width: 100%;
+	}
+
+	.influ-btns form input[type="date"]::before {
+		top: 5px;
+		right: 25px;
+	}
+
+	.influ-btns form label {
+		width: 49%;
+		margin: 0px 0px 4px 0px;
+	}
+
+	.influ-btns form input[type="date"]::-webkit-calendar-picker-indicator {
+		width: 100px;
+		left: 0;
+	}
+
+	.modal-dialog {
+		width: 60% !important;
+		margin: 0rem auto;
+	}
+
+	#myModal-2 .modal-dialog {
+		width: 90% !important;
+		margin: 0rem auto;
+	}
+
+	.logout-in i {
+		font-size: 50px;
+	}
+
+	.logout-in p {
+		font-size: 14px;
+		margin: 22px 0;
+	}
+
+	.logout-in-btn {
+		padding: 5px 25px;
+		font-size: 13px;
+		margin: 0 5px;
+	}
+
+	#page-content-wrapper {
+		position: fixed;
+	}
+
+	.influ-btns form select {
+		width: 100%;
+		margin-left: 0px;
+		margin-bottom: 4px;
+		padding: 5px;
+	}
+
+	.login-in {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+	}
+
+	.login-logo {
+		flex: auto;
+		padding: 20px 0px;
+		border-radius: 10px 10px 0px 0px;
+	}
+
+	.logo img {
+		width: 100px;
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	.logo h1 {
+		font-size: 25px;
+		margin: 0;
+		font-weight: 500;
+	}
+
+	.login-form {
+		flex: 50%;
+		width: 100%;
+		height: 100%;
+		padding: 10px;
+		border-radius: 0px 0px 15px 15px;
+	}
+
+	.login-form form {
+		width: 100%;
+		padding: 20px 10px;
+	}
+
+	.login-form-2 {
+		padding: 20px 10px !important;
+	}
+
+	.login-form form h1 {
+		font-size: 17px;
+		margin: 0px 0px 15px 0px;
+	}
+
+	.login-txt {
+		height: 30px;
+		margin-bottom: 10px;
+		font-size: 12px;
+		padding: 0px 15px;
+	}
+
+	.login-labl {
+		margin: 10px 0 15px 0;
+		font-size: 11px;
+	}
+
+	.login-rmb {
+		margin-right: 5px;
+		width: 10px;
+		margin-top: 1px;
+	}
+
+	.login-btn {
+		height: 30px;
+		font-size: 14px;
+		font-weight: 600;
+	}
+
+	.login-succ {
+		border-radius: 15px;
+		padding: 20px 10px;
+	}
+
+	.login-succ i {
+		font-size: 28px;
+		padding: 15px;
+		margin-bottom: 15px;
+	}
+
+	.login-succ h1 {
+		font-size: 20px;
+	}
+
+	.login-succ p {
+		font-size: 16px;
+		margin: 20px 0px;
+	}
+
+	.login-succ a {
+		padding: 6px 26px;
+		font-size: 14px;
+	}
+
+	#sidebar.hide {
+		width: 50px;
+	}
+
+	#sidebar .brand img {
+		width: 30px;
+	}
+
+	#content main {
+		padding: 12px;
+	}
+
+	#sidebar.hide ~ #content {
+		width: calc(100% - 50px);
+		left: 50px;
+	}
+
+	.influ-btn input {
+		text-align: left;
+	}
+
+	.influ-btn input::placeholder {
+		font-size: 12px;
+	}
+
+	#sidebar {
+		width: 220px;
+	}
+
+	#content {
+		width: calc(100% - 60px);
+		left: 220px;
+	}
+
+	#sidebar .side-menu li {
+		height: 35px;
+		margin-left: 8px;
+		margin-bottom: 10px;
+	}
+
+	#sidebar .side-menu li a {
+		font-size: 12px;
+		padding-left: 16px;
+	}
+
+	#sidebar .side-menu li a i {
+		margin-right: 13px;
+		font-size: 15px;
+	}
+
+	.influ-btns form button i {
+		font-size: 14px;
+	}
+
+	.influ-table table tr td a {
+		display: inline-block;
+		margin: 5px 5px 5px 5px;
+	}
+
+	.influ-pagi ul li {
+		margin: 0 7px;
+	}
+
+	.influ-pagi ul li a {
+		font-size: 13px;
+	}
+
+	.influ-pagi ul li.active a {
+		font-size: 14px;
+		font-weight: 700;
+	}
+
+	#sidebar .brand {
+		font-size: 20px;
+		padding-left: 12px;
+	}
+
+	.influ-table table tr th {
+		font-size: 12px;
+		padding: 5px;
+	}
+
+	.influ-table table tr td {
+		font-size: 11px;
+		padding: 5px;
+	}
+
+	.modal-dialog-2 {
+		max-width: 280px;
+		margin: 4.75rem auto;
+	}
+
+	.edit-in_txt {
+		height: 30px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.edit-in_txtarea {
+		height: 80px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.login-form form a {
+		font-size: 12px;
+	}
+
+	.login-form form p {
+		font-size: 12px;
+	}
+
+	.login-txt i {
+		font-size: 16px;
+	}
+
+	.login-txt img {
+		width: 10px;
+	}
+
+	.user-dashboard {
+		height: 200px;
+		padding: 50px 0;
+	}
+
+	.wallet {
+		right: 0;
+		top: 20px;
+		left: 0;
+		padding: 0 20px;
+		text-align: center;
+		align-items: flex-end;
+	}
+
+	.wallet h1 {
+		font-size: 13px;
+		padding: 6px 15px;
+	}
+
+	.wallet h1 p span {
+		left: -230px;
+		top: -20px;
+		padding: 5px;
+	}
+
+	.wallet h1 p span:before {
+		top: 8px;
+	}
+
+	.wallet a {
+		font-size: 13px;
+		padding: 6px 10px;
+	}
+
+	.user-heading {
+		padding-bottom: 30px;
+		justify-content: flex-end;
+	}
+
+	.user-heading h1 {
+		font-size: 20px;
+	}
+
+	.user-heading h2 {
+		font-size: 30px;
+	}
+
+	.welcom-wrap {
+		padding: 20px 0;
+	}
+
+	.welcom-in h1 {
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+
+	.welcom-in p {
+		font-size: 13px;
+		margin-bottom: 15px;
+		line-height: 22px;
+		text-align: center;
+	}
+
+	.welcom-in h2 {
+		font-size: 20px;
+		margin-bottom: 20px;
+	}
+
+	.welcom-in a {
+		font-size: 13px;
+		padding: 6px 20px;
+	}
+
+	.welcom-wrap img {
+		width: 50%;
+		left: 0;
+		top: 10%;
+		right: 0;
+		margin: auto;
+		opacity: 0.2;
+	}
+
+	.quiz-wrap {
+		padding: 20px 0;
+	}
+
+	.quiz-in h1 {
+		font-size: 25px;
+		margin: 10px 0 20px 0;
+	}
+
+	.quiz-box {
+		width: 100%;
+		height: auto;
+		padding: 20px 10px;
+		background-size: cover;
+	}
+
+	.quiz-box h2 {
+		font-size: 13px;
+	}
+
+	.quiz-box p {
+		padding: 5px 10px;
+		font-size: 13px;
+		margin-bottom: 15px;
+	}
+
+	.quiz-box p span {
+		font-size: 13px;
+	}
+
+	.quiz-box p span img {
+		width: 15px;
+		margin-left: 8px;
+	}
+
+	.quiz-box a {
+		font-size: 13px;
+		padding: 6px 20px;
+	}
+
+	.doct-wrap {
+		padding: 20px 0;
+	}
+
+	.doc-left {
+		margin-top: 40px;
+		width: 350px;
+		overflow: hidden;
+	}
+
+	.doc-left-img-1 {
+		width: 100%;
+	}
+
+	.doc-left-img-2 {
+		width: 70%;
+	}
+
+	.doc-left-logo {
+		width: 100px;
+		padding: 10px;
+	}
+
+	.doc-right {
+		width: 100%;
+		margin-top: 30px;
+	}
+
+	.resources-wrap {
+		padding: 10px 0 20px 0;
+	}
+
+	.resources-in {
+		margin-bottom: 20px;
+	}
+
+	.resources-in h1 {
+		font-size: 25px;
+	}
+
+	.accordion button {
+		padding: 8px 10px;
+	}
+
+	.accordion button .accordion-title {
+		font-size: 14px;
+		padding-right: 30px;
+	}
+
+	.accordion .accordion-content p {
+		font-size: 13px;
+		padding: 10px;
+		line-height: 22px;
+	}
+
+	.resources-in a {
+		font-size: 14px;
+		padding: 6px 20px;
+		margin-top: 0px;
+	}
+
+	.still-wrap {
+		padding: 20px 0;
+	}
+
+	.still-in h1 {
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+
+	.still-in a {
+		font-size: 13px;
+		padding: 8px 20px;
+	}
+
+	.user-footer {
+		padding: 30px 0 20px 0;
+	}
+
+	.user-footer-in {
+		flex-basis: 100%;
+		padding: 0 20px !important;
+		margin-bottom: 25px;
+	}
+
+	.user-footer-in:nth-child(1) {
+		padding: 0px 0px 0px 0px;
+	}
+
+	.user-footer-in:nth-child(2) {
+		padding: 0 0px;
+	}
+
+	.user-footer-in:nth-child(3) {
+		padding: 0px 0px 0px 0px;
+		margin-bottom: 0px;
+	}
+
+	.user-footer-in img {
+		width: 60px;
+		margin-bottom: 15px;
+	}
+
+	.user-footer-in p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.user-footer-in h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.user-footer-in ul li a {
+		font-size: 13px;
+	}
+
+	#myModal-2 .modal-dialog-edit {
+		max-width: 100% !important;
+		margin: 5rem auto !important;
+	}
+
+	.edit-in form label {
+		flex-wrap: wrap;
+		justify-content: space-between;
+		gap: 10px 5px;
+		font-size: 12px;
+	}
+
+	.edit-in_txt-choose {
+		padding: 10px 10px;
+	}
+
+	.edit-in form label img {
+		width: 24%;
+		height: auto;
+		object-fit: cover;
+	}
+
+	.page-heading {
+		padding: 20px 0;
+	}
+
+	.page-heading-in a {
+		margin-right: 10px;
+	}
+
+	.page-heading-in a i {
+		font-size: 12px;
+	}
+
+	.page-heading-in h1 {
+		font-size: 15px;
+	}
+
+	.page-inner {
+		padding: 10px;
+	}
+
+	.faq-wrap {
+		display: flex;
+		gap: 20px;
+		flex-direction: column;
+	}
+
+	.faq-left {
+		width: 100%;
+	}
+
+	.faq-right {
+		width: 100%;
+	}
+
+	#accordion h1 {
+		font-size: 13px;
+		padding: 15px 10px;
+	}
+
+	#accordion h1 img {
+		width: 15px;
+		margin-right: 8px;
+	}
+
+	#accordion .panel-title-2 ul li a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-body ul {
+		padding: 10px 0px 10px 20px;
+	}
+
+	#accordion .panel-body ul li {
+		margin: 0px 0px 5px 10px;
+	}
+
+	#accordion .panel-body ul li a {
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a:before, #accordion .panel-title a.collapsed:before {
+		font-size: 10px;
+		right: 15px;
+	}
+
+	.faq-right h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.accordion .accordion-item {
+		border-radius: 5px;
+		margin-bottom: 10px;
+	}
+
+	.terms-in h1 {
+		font-size: 14px;
+		padding: 10px;
+		line-height: 25px;
+		border-radius: 5px 5px 0px 0px;
+	}
+
+	.terms-in p {
+		font-size: 12px;
+		line-height: 22px;
+		padding: 10px;
+		text-align: justify;
+		border-radius: 0px 0px 5px 5px;
+	}
+
+	.pass-succ {
+		border-radius: 10px;
+		padding: 20px 15px;
+	}
+
+	.pass-succ i {
+		font-size: 20px;
+		padding: 20px;
+		margin-bottom: 10px;
+	}
+
+	.pass-succ h1 {
+		font-size: 20px;
+		margin: 10px 0 10px 0;
+	}
+
+	.pass-succ p {
+		font-size: 14px;
+		margin: 10px 0;
+	}
+
+	.pass-succ a {
+		padding: 6px 25px;
+		font-size: 14px;
+	}
+
+	.password-eye {
+		top: 6px;
+	}
+
+}
+
+@media only screen and (min-width:390px) and (max-width:479px) {
+	#myModal-2 .modal-body {
+		padding: 1rem;
+	}
+
+	.modal-heading h1 {
+		font-size: 20px;
+	}
+
+	.edit-in_txt-2 {
+		height: 30px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 0px 8px;
+	}
+
+	.edit-in_txt-5 {
+		height: 100px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 8px;
+	}
+
+	.select-selected {
+		padding: 8px 0px;
+	}
+
+	.select-items div {
+		padding: 8px 10px;
+	}
+
+	#sidebar .side-menu li p {
+		left: 75px;
+	}
+
+	.influ-btn i {
+		margin-right: 5px;
+	}
+
+	.influ-table-btn {
+		padding: 4px 20px;
+		font-size: 12px;
+	}
+
+	.influ-strip-2 {
+		align-items: stretch;
+		margin-bottom: 20px;
+		flex-direction: column;
+	}
+
+	.influ-search {
+		margin-bottom: 15px;
+	}
+
+	.influ-btns form {
+		display: inherit;
+		text-align: center;
+	}
+
+	.influ-btn {
+		width: 100%;
+		font-size: 12px;
+		margin-left: 0px;
+		display: inline-flex;
+		flex-wrap: nowrap;
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: center;
+		margin-bottom: 4px;
+	}
+
+	.menu-btn {
+		font-size: 25px;
+		margin: auto;
+	}
+
+	.sidebar-nav {
+		height: 100%;
+		width: 90%;
+	}
+
+	#wrapper.toggled {
+		padding-left: 0;
+	}
+
+	#wrapper {
+		padding-left: 320px;
+	}
+
+	#wrapper.toggled #sidebar-wrapper {
+		width: 320px;
+		transform: translateX(-320px);
+	}
+
+	#sidebar-wrapper {
+		width: 320px;
+		height: 100%;
+		position: fixed;
+		transform: translateX(0px);
+	}
+
+	.influ-table p {
+		font-size: 13px;
+		color: #B07D3C;
+		text-align: center;
+		margin: 10px 0px;
+	}
+
+	.influ-btns form input[type="date"] {
+		width: 100%;
+	}
+
+	.influ-btns form input[type="date"]::before {
+		top: 5px;
+		right: 25px;
+	}
+
+	.influ-btns form label {
+		width: 49%;
+		margin: 0px 0px 4px 0px;
+	}
+
+	.influ-btns form input[type="date"]::-webkit-calendar-picker-indicator {
+		width: 100px;
+		left: 0;
+	}
+
+	.modal-dialog {
+		width: 90% !important;
+		margin: 0rem auto;
+	}
+
+	.logout-in i {
+		font-size: 50px;
+	}
+
+	.logout-in p {
+		font-size: 14px;
+		margin: 22px 0;
+	}
+
+	.logout-in-btn {
+		padding: 5px 25px;
+		font-size: 13px;
+		margin: 0 5px;
+	}
+
+	#page-content-wrapper {
+		position: fixed;
+	}
+
+	.influ-btns form select {
+		width: 100%;
+		margin-left: 0px;
+		margin-bottom: 4px;
+		padding: 5px;
+	}
+
+	.login-in {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+	}
+
+	.login-logo {
+		flex: auto;
+		padding: 20px 0px;
+		border-radius: 10px 10px 0px 0px;
+	}
+
+	.logo img {
+		width: 100px;
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	.logo h1 {
+		font-size: 25px;
+		margin: 0;
+		font-weight: 500;
+	}
+
+	.login-form {
+		flex: 50%;
+		width: 100%;
+		height: 100%;
+		padding: 10px;
+		border-radius: 0px 0px 15px 15px;
+	}
+
+	.login-form form {
+		width: 100%;
+		padding: 20px 10px;
+	}
+
+	.login-form-2 {
+		padding: 20px 10px !important;
+	}
+
+	.login-form form h1 {
+		font-size: 17px;
+		margin: 0px 0px 15px 0px;
+	}
+
+	.login-txt {
+		height: 30px;
+		margin-bottom: 10px;
+		font-size: 12px;
+		padding: 0px 15px;
+	}
+
+	.login-labl {
+		margin: 10px 0 15px 0;
+		font-size: 11px;
+	}
+
+	.login-rmb {
+		margin-right: 5px;
+		width: 10px;
+		margin-top: 1px;
+	}
+
+	.login-btn {
+		height: 30px;
+		font-size: 14px;
+		font-weight: 600;
+	}
+
+	.login-succ {
+		border-radius: 15px;
+		padding: 20px 10px;
+	}
+
+	.login-succ i {
+		font-size: 28px;
+		padding: 15px;
+		margin-bottom: 15px;
+	}
+
+	.login-succ h1 {
+		font-size: 20px;
+	}
+
+	.login-succ p {
+		font-size: 16px;
+		margin: 20px 0px;
+	}
+
+	.login-succ a {
+		padding: 6px 26px;
+		font-size: 14px;
+	}
+
+	#sidebar.hide {
+		width: 50px;
+	}
+
+	#sidebar .brand img {
+		width: 30px;
+	}
+
+	#content main {
+		padding: 12px;
+	}
+
+	#sidebar.hide ~ #content {
+		width: calc(100% - 50px);
+		left: 50px;
+	}
+
+	.influ-btn input {
+		text-align: left;
+	}
+
+	.influ-btn input::placeholder {
+		font-size: 12px;
+	}
+
+	#sidebar {
+		width: 220px;
+	}
+
+	#content {
+		width: calc(100% - 60px);
+		left: 220px;
+	}
+
+	#sidebar .side-menu li {
+		height: 35px;
+		margin-left: 8px;
+		margin-bottom: 10px;
+	}
+
+	#sidebar .side-menu li a {
+		font-size: 12px;
+		padding-left: 16px;
+	}
+
+	#sidebar .side-menu li a i {
+		margin-right: 13px;
+		font-size: 15px;
+	}
+
+	.influ-btns form button i {
+		font-size: 14px;
+	}
+
+	.influ-table table tr td a {
+		display: inline-block;
+		margin: 5px 5px 5px 5px;
+	}
+
+	.influ-pagi ul li {
+		margin: 0 7px;
+	}
+
+	.influ-pagi ul li a {
+		font-size: 13px;
+	}
+
+	.influ-pagi ul li.active a {
+		font-size: 14px;
+		font-weight: 700;
+	}
+
+	#sidebar .brand {
+		font-size: 20px;
+		padding-left: 12px;
+	}
+
+	.influ-table table tr th {
+		font-size: 12px;
+		padding: 5px;
+	}
+
+	.influ-table table tr td {
+		font-size: 11px;
+		padding: 5px;
+	}
+
+	.modal-dialog-2 {
+		max-width: 280px;
+		margin: 4.75rem auto;
+	}
+
+	.edit-in_txt {
+		height: 30px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.edit-in_txtarea {
+		height: 80px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.login-form form a {
+		font-size: 12px;
+	}
+
+	.login-form form p {
+		font-size: 12px;
+	}
+
+	.login-txt i {
+		font-size: 16px;
+	}
+
+	.login-txt img {
+		width: 10px;
+	}
+
+	.user-dashboard {
+		height: 200px;
+		padding: 50px 0;
+	}
+
+	.wallet {
+		right: 0;
+		top: 20px;
+		left: 0;
+		padding: 0 20px;
+		text-align: center;
+		align-items: flex-end;
+	}
+
+	.wallet h1 {
+		font-size: 13px;
+		padding: 6px 15px;
+	}
+
+	.wallet h1 p span {
+		left: -230px;
+		top: -20px;
+		padding: 5px;
+	}
+
+	.wallet h1 p span:before {
+		top: 8px;
+	}
+
+	.wallet a {
+		font-size: 13px;
+		padding: 6px 10px;
+	}
+
+	.user-heading {
+		padding-bottom: 10px;
+		justify-content: flex-end;
+	}
+
+	.user-heading h1 {
+		font-size: 20px;
+	}
+
+	.user-heading h2 {
+		font-size: 30px;
+	}
+
+	.welcom-wrap {
+		padding: 20px 0;
+	}
+
+	.welcom-in h1 {
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+
+	.welcom-in p {
+		font-size: 13px;
+		margin-bottom: 15px;
+		line-height: 22px;
+		text-align: center;
+	}
+
+	.welcom-in h2 {
+		font-size: 20px;
+		margin-bottom: 20px;
+	}
+
+	.welcom-in a {
+		font-size: 13px;
+		padding: 6px 20px;
+	}
+
+	.welcom-wrap img {
+		width: 80%;
+		left: 0;
+		top: 10%;
+		right: 0;
+		margin: auto;
+		opacity: 0.2;
+	}
+
+	.quiz-wrap {
+		padding: 20px 0;
+	}
+
+	.quiz-in h1 {
+		font-size: 25px;
+		margin: 10px 0 20px 0;
+	}
+
+	.quiz-box {
+		width: 100%;
+		height: auto;
+		padding: 20px 10px;
+		background-size: cover;
+	}
+
+	.quiz-box h2 {
+		font-size: 13px;
+	}
+
+	.quiz-box p {
+		padding: 5px 10px;
+		font-size: 13px;
+		margin-bottom: 15px;
+	}
+
+	.quiz-box p span {
+		font-size: 13px;
+	}
+
+	.quiz-box p span img {
+		width: 15px;
+		margin-left: 8px;
+	}
+
+	.quiz-box a {
+		font-size: 13px;
+		padding: 6px 20px;
+	}
+
+	.doct-wrap {
+		padding: 20px 0;
+	}
+
+	.doc-left {
+		margin-top: 40px;
+		width: 300px;
+		overflow: hidden;
+	}
+
+	.doc-left-img-1 {
+		width: 100%;
+	}
+
+	.doc-left-img-2 {
+		width: 70%;
+	}
+
+	.doc-left-logo {
+		width: 80px;
+		padding: 10px;
+	}
+
+	.doc-right {
+		width: 100%;
+		margin-top: 30px;
+	}
+
+	.resources-wrap {
+		padding: 10px 0 20px 0;
+	}
+
+	.resources-in {
+		margin-bottom: 20px;
+	}
+
+	.resources-in h1 {
+		font-size: 25px;
+	}
+
+	.accordion button {
+		padding: 8px 10px;
+	}
+
+	.accordion button .accordion-title {
+		font-size: 14px;
+		padding-right: 30px;
+	}
+
+	.accordion .accordion-content p {
+		font-size: 13px;
+		padding: 10px;
+		line-height: 22px;
+	}
+
+	.resources-in a {
+		font-size: 14px;
+		padding: 6px 20px;
+		margin-top: 0px;
+	}
+
+	.still-wrap {
+		padding: 20px 0;
+	}
+
+	.still-in h1 {
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+
+	.still-in a {
+		font-size: 13px;
+		padding: 8px 20px;
+	}
+
+	.user-footer {
+		padding: 30px 0 20px 0;
+	}
+
+	.user-footer-in {
+		flex-basis: 100%;
+		padding: 0 20px !important;
+		margin-bottom: 25px;
+	}
+
+	.user-footer-in:nth-child(1) {
+		padding: 0px 0px 0px 0px;
+	}
+
+	.user-footer-in:nth-child(2) {
+		padding: 0 0px;
+	}
+
+	.user-footer-in:nth-child(3) {
+		padding: 0px 0px 0px 0px;
+		margin-bottom: 0px;
+	}
+
+	.user-footer-in img {
+		width: 60px;
+		margin-bottom: 15px;
+	}
+
+	.user-footer-in p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.user-footer-in h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.user-footer-in ul li a {
+		font-size: 13px;
+	}
+
+	#myModal-2 .modal-dialog-edit {
+		max-width: 100% !important;
+		margin: 10rem auto !important;
+	}
+
+	.edit-in form label {
+		flex-wrap: wrap;
+		justify-content: space-between;
+		gap: 10px 5px;
+		font-size: 12px;
+	}
+
+	.edit-in_txt-choose {
+		padding: 10px 10px;
+	}
+
+	.edit-in form label img {
+		width: 48%;
+		height: auto;
+		object-fit: cover;
+	}
+
+	.page-heading {
+		padding: 20px 0;
+	}
+
+	.page-heading-in a {
+		margin-right: 10px;
+	}
+
+	.page-heading-in a i {
+		font-size: 12px;
+	}
+
+	.page-heading-in h1 {
+		font-size: 15px;
+	}
+
+	.page-inner {
+		padding: 10px;
+	}
+
+	.faq-wrap {
+		display: flex;
+		gap: 20px;
+		flex-direction: column;
+	}
+
+	.faq-left {
+		width: 100%;
+	}
+
+	.faq-right {
+		width: 100%;
+	}
+
+	#accordion h1 {
+		font-size: 13px;
+		padding: 15px 10px;
+	}
+
+	#accordion h1 img {
+		width: 17px;
+		margin-right: 8px;
+	}
+
+	#accordion .panel-title-2 ul li a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-body ul {
+		padding: 10px 0px 10px 20px;
+	}
+
+	#accordion .panel-body ul li {
+		margin: 0px 0px 5px 10px;
+	}
+
+	#accordion .panel-body ul li a {
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a:before, #accordion .panel-title a.collapsed:before {
+		font-size: 10px;
+		right: 15px;
+	}
+
+	.faq-right h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.accordion .accordion-item {
+		border-radius: 5px;
+		margin-bottom: 10px;
+	}
+
+	.terms-in h1 {
+		font-size: 14px;
+		padding: 10px;
+		line-height: 25px;
+		border-radius: 5px 5px 0px 0px;
+	}
+
+	.terms-in p {
+		font-size: 12px;
+		line-height: 22px;
+		padding: 10px;
+		text-align: justify;
+		border-radius: 0px 0px 5px 5px;
+	}
+
+	.pass-succ {
+		border-radius: 10px;
+		padding: 20px 15px;
+	}
+
+	.pass-succ i {
+		font-size: 20px;
+		padding: 20px;
+		margin-bottom: 10px;
+	}
+
+	.pass-succ h1 {
+		font-size: 20px;
+		margin: 10px 0 10px 0;
+	}
+
+	.pass-succ p {
+		font-size: 14px;
+		margin: 10px 0;
+	}
+
+	.pass-succ a {
+		padding: 6px 25px;
+		font-size: 14px;
+	}
+
+	.password-eye {
+		top: 6px;
+	}
+
+}
+
+@media only screen and (min-width:360px) and (max-width:389px) {
+	#myModal-2 .modal-body {
+		padding: 1rem;
+	}
+
+	.modal-heading h1 {
+		font-size: 20px;
+	}
+
+	.edit-in_txt-2 {
+		height: 30px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 0px 8px;
+	}
+
+	.edit-in_txt-5 {
+		height: 100px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 8px;
+	}
+
+	.select-selected {
+		padding: 8px 0px;
+	}
+
+	.select-items div {
+		padding: 8px 10px;
+	}
+
+	#sidebar .side-menu li p {
+		left: 75px;
+	}
+
+	.influ-btn i {
+		margin-right: 5px;
+	}
+
+	.influ-table-btn {
+		padding: 4px 20px;
+		font-size: 12px;
+	}
+
+	.influ-strip-2 {
+		align-items: stretch;
+		margin-bottom: 20px;
+		flex-direction: column;
+	}
+
+	.influ-search {
+		margin-bottom: 15px;
+	}
+
+	.influ-btns form {
+		display: inherit;
+		text-align: center;
+	}
+
+	.influ-btn {
+		width: 100%;
+		font-size: 12px;
+		margin-left: 0px;
+		display: inline-flex;
+		flex-wrap: nowrap;
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: center;
+		margin-bottom: 4px;
+	}
+
+	.menu-btn {
+		font-size: 25px;
+		margin: auto;
+	}
+
+	.sidebar-nav {
+		height: 100%;
+		width: 90%;
+	}
+
+	#wrapper.toggled {
+		padding-left: 0;
+	}
+
+	#wrapper {
+		padding-left: 320px;
+	}
+
+	#wrapper.toggled #sidebar-wrapper {
+		width: 320px;
+		transform: translateX(-320px);
+	}
+
+	#sidebar-wrapper {
+		width: 320px;
+		height: 100%;
+		position: fixed;
+		transform: translateX(0px);
+	}
+
+	.influ-table p {
+		font-size: 13px;
+		color: #B07D3C;
+		text-align: center;
+		margin: 10px 0px;
+	}
+
+	.influ-btns form input[type="date"] {
+		width: 100%;
+	}
+
+	.influ-btns form input[type="date"]::before {
+		top: 5px;
+		right: 25px;
+	}
+
+	.influ-btns form label {
+		width: 49%;
+		margin: 0px 0px 4px 0px;
+	}
+
+	.influ-btns form input[type="date"]::-webkit-calendar-picker-indicator {
+		width: 100px;
+		left: 0;
+	}
+
+	.modal-dialog {
+		width: 90% !important;
+		margin: 0rem auto;
+	}
+
+	.logout-in i {
+		font-size: 50px;
+	}
+
+	.logout-in p {
+		font-size: 14px;
+		margin: 22px 0;
+	}
+
+	.logout-in-btn {
+		padding: 5px 25px;
+		font-size: 13px;
+		margin: 0 5px;
+	}
+
+	#page-content-wrapper {
+		position: fixed;
+	}
+
+	.influ-btns form select {
+		width: 100%;
+		margin-left: 0px;
+		margin-bottom: 4px;
+		padding: 5px;
+	}
+
+	.login-in {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+	}
+
+	.login-logo {
+		flex: auto;
+		padding: 20px 0px;
+		border-radius: 10px 10px 0px 0px;
+	}
+
+	.logo img {
+		width: 100px;
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	.logo h1 {
+		font-size: 25px;
+		margin: 0;
+		font-weight: 500;
+	}
+
+	.login-form {
+		flex: 50%;
+		width: 100%;
+		height: 100%;
+		padding: 10px;
+		border-radius: 0px 0px 15px 15px;
+	}
+
+	.login-form form {
+		width: 100%;
+		padding: 20px 10px;
+	}
+
+	.login-form-2 {
+		padding: 20px 10px !important;
+	}
+
+	.login-form form h1 {
+		font-size: 17px;
+		margin: 0px 0px 15px 0px;
+	}
+
+	.login-txt {
+		height: 30px;
+		margin-bottom: 10px;
+		font-size: 12px;
+		padding: 0px 15px;
+	}
+
+	.login-labl {
+		margin: 10px 0 15px 0;
+		font-size: 11px;
+	}
+
+	.login-rmb {
+		margin-right: 5px;
+		width: 10px;
+		margin-top: 1px;
+	}
+
+	.login-btn {
+		height: 30px;
+		font-size: 14px;
+		font-weight: 600;
+	}
+
+	.login-succ {
+		border-radius: 15px;
+		padding: 20px 10px;
+	}
+
+	.login-succ i {
+		font-size: 28px;
+		padding: 15px;
+		margin-bottom: 15px;
+	}
+
+	.login-succ h1 {
+		font-size: 20px;
+	}
+
+	.login-succ p {
+		font-size: 16px;
+		margin: 20px 0px;
+	}
+
+	.login-succ a {
+		padding: 6px 26px;
+		font-size: 14px;
+	}
+
+	#sidebar.hide {
+		width: 50px;
+	}
+
+	#sidebar .brand img {
+		width: 30px;
+	}
+
+	#content main {
+		padding: 12px;
+	}
+
+	#sidebar.hide ~ #content {
+		width: calc(100% - 50px);
+		left: 50px;
+	}
+
+	.influ-btn input {
+		text-align: left;
+	}
+
+	.influ-btn input::placeholder {
+		font-size: 12px;
+	}
+
+	#sidebar {
+		width: 220px;
+	}
+
+	#content {
+		width: calc(100% - 60px);
+		left: 220px;
+	}
+
+	#sidebar .side-menu li {
+		height: 35px;
+		margin-left: 8px;
+		margin-bottom: 10px;
+	}
+
+	#sidebar .side-menu li a {
+		font-size: 12px;
+		padding-left: 16px;
+	}
+
+	#sidebar .side-menu li a i {
+		margin-right: 13px;
+		font-size: 15px;
+	}
+
+	.influ-btns form button i {
+		font-size: 14px;
+	}
+
+	.influ-table table tr td a {
+		display: inline-block;
+		margin: 5px 5px 5px 5px;
+	}
+
+	.influ-pagi ul li {
+		margin: 0 7px;
+	}
+
+	.influ-pagi ul li a {
+		font-size: 13px;
+	}
+
+	.influ-pagi ul li.active a {
+		font-size: 14px;
+		font-weight: 700;
+	}
+
+	#sidebar .brand {
+		font-size: 20px;
+		padding-left: 12px;
+	}
+
+	.influ-table table tr th {
+		font-size: 12px;
+		padding: 5px;
+	}
+
+	.influ-table table tr td {
+		font-size: 11px;
+		padding: 5px;
+	}
+
+	.modal-dialog-2 {
+		max-width: 280px;
+		margin: 4.75rem auto;
+	}
+
+	.edit-in_txt {
+		height: 30px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.edit-in_txtarea {
+		height: 80px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.login-form form a {
+		font-size: 12px;
+	}
+
+	.login-form form p {
+		font-size: 12px;
+	}
+
+	.login-txt i {
+		font-size: 16px;
+	}
+
+	.login-txt img {
+		width: 10px;
+	}
+
+	.user-dashboard {
+		height: 200px;
+		padding: 50px 0;
+	}
+
+	.wallet {
+		right: 0;
+		top: 20px;
+		left: 0;
+		padding: 0 20px;
+		text-align: center;
+		align-items: flex-end;
+	}
+
+	.wallet h1 {
+		font-size: 13px;
+		padding: 6px 15px;
+	}
+
+	.wallet h1 p span {
+		left: -230px;
+		top: -20px;
+		padding: 5px;
+	}
+
+	.wallet h1 p span:before {
+		top: 8px;
+	}
+
+	.wallet a {
+		font-size: 13px;
+		padding: 6px 10px;
+	}
+
+	.user-heading {
+		padding-bottom: 10px;
+		justify-content: flex-end;
+	}
+
+	.user-heading h1 {
+		font-size: 20px;
+	}
+
+	.user-heading h2 {
+		font-size: 30px;
+	}
+
+	.welcom-wrap {
+		padding: 20px 0;
+	}
+
+	.welcom-in h1 {
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+
+	.welcom-in p {
+		font-size: 13px;
+		margin-bottom: 15px;
+		line-height: 22px;
+		text-align: center;
+	}
+
+	.welcom-in h2 {
+		font-size: 20px;
+		margin-bottom: 20px;
+	}
+
+	.welcom-in a {
+		font-size: 13px;
+		padding: 6px 20px;
+	}
+
+	.welcom-wrap img {
+		width: 80%;
+		left: 0;
+		top: 10%;
+		right: 0;
+		margin: auto;
+		opacity: 0.2;
+	}
+
+	.quiz-wrap {
+		padding: 20px 0;
+	}
+
+	.quiz-in h1 {
+		font-size: 25px;
+		margin: 10px 0 20px 0;
+	}
+
+	.quiz-box {
+		width: 100%;
+		height: auto;
+		padding: 20px 10px;
+		background-size: cover;
+	}
+
+	.quiz-box h2 {
+		font-size: 13px;
+	}
+
+	.quiz-box p {
+		padding: 5px 10px;
+		font-size: 13px;
+		margin-bottom: 15px;
+	}
+
+	.quiz-box p span {
+		font-size: 13px;
+	}
+
+	.quiz-box p span img {
+		width: 15px;
+		margin-left: 8px;
+	}
+
+	.quiz-box a {
+		font-size: 13px;
+		padding: 6px 20px;
+	}
+
+	.doct-wrap {
+		padding: 20px 0;
+	}
+
+	.doc-left {
+		margin-top: 40px;
+		width: 300px;
+		overflow: hidden;
+	}
+
+	.doc-left-img-1 {
+		width: 100%;
+	}
+
+	.doc-left-img-2 {
+		width: 70%;
+	}
+
+	.doc-left-logo {
+		width: 80px;
+		padding: 10px;
+	}
+
+	.doc-right {
+		width: 100%;
+		margin-top: 30px;
+	}
+
+	.resources-wrap {
+		padding: 10px 0 20px 0;
+	}
+
+	.resources-in {
+		margin-bottom: 20px;
+	}
+
+	.resources-in h1 {
+		font-size: 25px;
+	}
+
+	.accordion button {
+		padding: 8px 10px;
+	}
+
+	.accordion button .accordion-title {
+		font-size: 14px;
+		padding-right: 30px;
+	}
+
+	.accordion .accordion-content p {
+		font-size: 13px;
+		padding: 10px;
+		line-height: 22px;
+	}
+
+	.resources-in a {
+		font-size: 14px;
+		padding: 6px 20px;
+		margin-top: 0px;
+	}
+
+	.still-wrap {
+		padding: 20px 0;
+	}
+
+	.still-in h1 {
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+
+	.still-in a {
+		font-size: 13px;
+		padding: 8px 20px;
+	}
+
+	.user-footer {
+		padding: 30px 0 20px 0;
+	}
+
+	.user-footer-in {
+		flex-basis: 100%;
+		padding: 0 20px !important;
+		margin-bottom: 25px;
+	}
+
+	.user-footer-in:nth-child(1) {
+		padding: 0px 0px 0px 0px;
+	}
+
+	.user-footer-in:nth-child(2) {
+		padding: 0 0px;
+	}
+
+	.user-footer-in:nth-child(3) {
+		padding: 0px 0px 0px 0px;
+		margin-bottom: 0px;
+	}
+
+	.user-footer-in img {
+		width: 60px;
+		margin-bottom: 15px;
+	}
+
+	.user-footer-in p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.user-footer-in h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.user-footer-in ul li a {
+		font-size: 13px;
+	}
+
+	#myModal-2 .modal-dialog-edit {
+		max-width: 100% !important;
+		margin: 10rem auto !important;
+	}
+
+	.edit-in form label {
+		flex-wrap: wrap;
+		justify-content: space-between;
+		gap: 10px 5px;
+		font-size: 12px;
+	}
+
+	.edit-in_txt-choose {
+		padding: 10px 10px;
+	}
+
+	.edit-in form label img {
+		width: 48%;
+		height: auto;
+		object-fit: cover;
+	}
+
+	.page-heading {
+		padding: 20px 0;
+	}
+
+	.page-heading-in a {
+		margin-right: 10px;
+	}
+
+	.page-heading-in a i {
+		font-size: 12px;
+	}
+
+	.page-heading-in h1 {
+		font-size: 15px;
+	}
+
+	.page-inner {
+		padding: 10px;
+	}
+
+	.faq-wrap {
+		display: flex;
+		gap: 20px;
+		flex-direction: column;
+	}
+
+	.faq-left {
+		width: 100%;
+	}
+
+	.faq-right {
+		width: 100%;
+	}
+
+	#accordion h1 {
+		font-size: 13px;
+		padding: 15px 10px;
+	}
+
+	#accordion h1 img {
+		width: 17px;
+		margin-right: 8px;
+	}
+
+	#accordion .panel-title-2 ul li a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-body ul {
+		padding: 10px 0px 10px 20px;
+	}
+
+	#accordion .panel-body ul li {
+		margin: 0px 0px 5px 10px;
+	}
+
+	#accordion .panel-body ul li a {
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a:before, #accordion .panel-title a.collapsed:before {
+		font-size: 10px;
+		right: 15px;
+	}
+
+	.faq-right h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.accordion .accordion-item {
+		border-radius: 5px;
+		margin-bottom: 10px;
+	}
+
+	.terms-in h1 {
+		font-size: 14px;
+		padding: 10px;
+		line-height: 25px;
+		border-radius: 5px 5px 0px 0px;
+	}
+
+	.terms-in p {
+		font-size: 12px;
+		line-height: 22px;
+		padding: 10px;
+		text-align: justify;
+		border-radius: 0px 0px 5px 5px;
+	}
+
+	.pass-succ {
+		border-radius: 10px;
+		padding: 20px 15px;
+	}
+
+	.pass-succ i {
+		font-size: 20px;
+		padding: 20px;
+		margin-bottom: 10px;
+	}
+
+	.pass-succ h1 {
+		font-size: 20px;
+		margin: 10px 0 10px 0;
+	}
+
+	.pass-succ p {
+		font-size: 14px;
+		margin: 10px 0;
+	}
+
+	.pass-succ a {
+		padding: 6px 25px;
+		font-size: 14px;
+	}
+
+	.password-eye {
+		top: 6px;
+	}
+
+}
+
+@media only screen and (min-width:320px) and (max-width:359px) {
+	#myModal-2 .modal-body {
+		padding: 1rem;
+	}
+
+	.modal-heading h1 {
+		font-size: 20px;
+	}
+
+	.edit-in_txt-2 {
+		height: 30px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 0px 8px;
+	}
+
+	.edit-in_txt-5 {
+		height: 100px;
+		font-size: 12px;
+		margin-bottom: 10px;
+		padding: 8px;
+	}
+
+	.select-selected {
+		padding: 8px 0px;
+	}
+
+	.select-items div {
+		padding: 8px 10px;
+	}
+
+	#sidebar .side-menu li p {
+		left: 75px;
+	}
+
+	.influ-btn i {
+		margin-right: 5px;
+	}
+
+	.influ-table-btn {
+		padding: 4px 20px;
+		font-size: 12px;
+	}
+
+	.influ-strip-2 {
+		align-items: stretch;
+		margin-bottom: 20px;
+		flex-direction: column;
+	}
+
+	.influ-search {
+		margin-bottom: 15px;
+	}
+
+	.influ-btns form {
+		display: inherit;
+		text-align: center;
+	}
+
+	.influ-btn {
+		width: 100%;
+		font-size: 12px;
+		margin-left: 0px;
+		display: inline-flex;
+		flex-wrap: nowrap;
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: center;
+		margin-bottom: 4px;
+	}
+
+	.menu-btn {
+		font-size: 25px;
+		margin: auto;
+	}
+
+	.sidebar-nav {
+		height: 100%;
+		width: 90%;
+	}
+
+	#wrapper.toggled {
+		padding-left: 0;
+	}
+
+	#wrapper {
+		padding-left: 320px;
+	}
+
+	#wrapper.toggled #sidebar-wrapper {
+		width: 320px;
+		transform: translateX(-320px);
+	}
+
+	#sidebar-wrapper {
+		width: 320px;
+		height: 100%;
+		position: fixed;
+		transform: translateX(0px);
+	}
+
+	.influ-table p {
+		font-size: 13px;
+		color: #B07D3C;
+		text-align: center;
+		margin: 10px 0px;
+	}
+
+	.influ-btns form input[type="date"] {
+		width: 100%;
+	}
+
+	.influ-btns form input[type="date"]::before {
+		top: 5px;
+		right: 25px;
+	}
+
+	.influ-btns form label {
+		width: 49%;
+		margin: 0px 0px 4px 0px;
+	}
+
+	.influ-btns form input[type="date"]::-webkit-calendar-picker-indicator {
+		width: 100px;
+		left: 0;
+	}
+
+	.modal-dialog {
+		width: 90% !important;
+		margin: 0rem auto;
+	}
+
+	.logout-in i {
+		font-size: 50px;
+	}
+
+	.logout-in p {
+		font-size: 14px;
+		margin: 22px 0;
+	}
+
+	.logout-in-btn {
+		padding: 5px 25px;
+		font-size: 13px;
+		margin: 0 5px;
+	}
+
+	#page-content-wrapper {
+		position: fixed;
+	}
+
+	.influ-btns form select {
+		width: 100%;
+		margin-left: 0px;
+		margin-bottom: 4px;
+		padding: 5px;
+	}
+
+	.login-in {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+	}
+
+	.login-logo {
+		flex: auto;
+		padding: 20px 0px;
+		border-radius: 10px 10px 0px 0px;
+	}
+
+	.logo img {
+		width: 100px;
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	.logo h1 {
+		font-size: 25px;
+		margin: 0;
+		font-weight: 500;
+	}
+
+	.login-form {
+		flex: 50%;
+		width: 100%;
+		height: 100%;
+		padding: 10px;
+		border-radius: 0px 0px 15px 15px;
+	}
+
+	.login-form form {
+		width: 100%;
+		padding: 20px 10px;
+	}
+
+	.login-form-2 {
+		padding: 20px 10px !important;
+	}
+
+	.login-form form h1 {
+		font-size: 17px;
+		margin: 0px 0px 15px 0px;
+	}
+
+	.login-txt {
+		height: 30px;
+		margin-bottom: 10px;
+		font-size: 12px;
+		padding: 0px 15px;
+	}
+
+	.login-labl {
+		margin: 10px 0 15px 0;
+		font-size: 11px;
+	}
+
+	.login-rmb {
+		margin-right: 5px;
+		width: 10px;
+		margin-top: 1px;
+	}
+
+	.login-btn {
+		height: 30px;
+		font-size: 14px;
+		font-weight: 600;
+	}
+
+	.login-succ {
+		border-radius: 15px;
+		padding: 20px 10px;
+	}
+
+	.login-succ i {
+		font-size: 28px;
+		padding: 15px;
+		margin-bottom: 15px;
+	}
+
+	.login-succ h1 {
+		font-size: 20px;
+	}
+
+	.login-succ p {
+		font-size: 16px;
+		margin: 20px 0px;
+	}
+
+	.login-succ a {
+		padding: 6px 26px;
+		font-size: 14px;
+	}
+
+	#sidebar.hide {
+		width: 50px;
+	}
+
+	#sidebar .brand img {
+		width: 30px;
+	}
+
+	#content main {
+		padding: 12px;
+	}
+
+	#sidebar.hide ~ #content {
+		width: calc(100% - 50px);
+		left: 50px;
+	}
+
+	.influ-btn input {
+		text-align: left;
+	}
+
+	.influ-btn input::placeholder {
+		font-size: 12px;
+	}
+
+	#sidebar {
+		width: 220px;
+	}
+
+	#content {
+		width: calc(100% - 60px);
+		left: 220px;
+	}
+
+	#sidebar .side-menu li {
+		height: 35px;
+		margin-left: 8px;
+		margin-bottom: 10px;
+	}
+
+	#sidebar .side-menu li a {
+		font-size: 12px;
+		padding-left: 16px;
+	}
+
+	#sidebar .side-menu li a i {
+		margin-right: 13px;
+		font-size: 15px;
+	}
+
+	.influ-btns form button i {
+		font-size: 14px;
+	}
+
+	.influ-table table tr td a {
+		display: inline-block;
+		margin: 5px 5px 5px 5px;
+	}
+
+	.influ-pagi ul li {
+		margin: 0 7px;
+	}
+
+	.influ-pagi ul li a {
+		font-size: 13px;
+	}
+
+	.influ-pagi ul li.active a {
+		font-size: 14px;
+		font-weight: 700;
+	}
+
+	#sidebar .brand {
+		font-size: 20px;
+		padding-left: 12px;
+	}
+
+	.influ-table table tr th {
+		font-size: 12px;
+		padding: 5px;
+	}
+
+	.influ-table table tr td {
+		font-size: 11px;
+		padding: 5px;
+	}
+
+	.modal-dialog-2 {
+		max-width: 280px;
+		margin: 4.75rem auto;
+	}
+
+	.edit-in_txt {
+		height: 30px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.edit-in_txtarea {
+		height: 80px;
+		margin-bottom: 8px;
+		font-size: 12px;
+	}
+
+	.login-form form a {
+		font-size: 12px;
+	}
+
+	.login-form form p {
+		font-size: 12px;
+	}
+
+	.login-txt i {
+		font-size: 16px;
+	}
+
+	.login-txt img {
+		width: 10px;
+	}
+
+	.user-dashboard {
+		height: 200px;
+		padding: 50px 0;
+	}
+
+	.wallet {
+		right: 0;
+		top: 20px;
+		left: 0;
+		padding: 0 20px;
+		text-align: center;
+		align-items: flex-end;
+	}
+
+	.wallet h1 {
+		font-size: 13px;
+		padding: 6px 15px;
+	}
+
+	.wallet h1 p span {
+		left: -230px;
+		top: -20px;
+		padding: 5px;
+	}
+
+	.wallet h1 p span:before {
+		top: 8px;
+	}
+
+	.wallet a {
+		font-size: 13px;
+		padding: 6px 10px;
+	}
+
+	.user-heading {
+		padding-bottom: 10px;
+		justify-content: flex-end;
+	}
+
+	.user-heading h1 {
+		font-size: 20px;
+	}
+
+	.user-heading h2 {
+		font-size: 30px;
+	}
+
+	.welcom-wrap {
+		padding: 20px 0;
+	}
+
+	.welcom-in h1 {
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+
+	.welcom-in p {
+		font-size: 13px;
+		margin-bottom: 15px;
+		line-height: 22px;
+		text-align: center;
+	}
+
+	.welcom-in h2 {
+		font-size: 20px;
+		margin-bottom: 20px;
+	}
+
+	.welcom-in a {
+		font-size: 13px;
+		padding: 6px 20px;
+	}
+
+	.welcom-wrap img {
+		width: 80%;
+		left: 0;
+		top: 10%;
+		right: 0;
+		margin: auto;
+		opacity: 0.2;
+	}
+
+	.quiz-wrap {
+		padding: 20px 0;
+	}
+
+	.quiz-in h1 {
+		font-size: 25px;
+		margin: 10px 0 20px 0;
+	}
+
+	.quiz-box {
+		width: 100%;
+		height: auto;
+		padding: 20px 10px;
+		background-size: cover;
+	}
+
+	.quiz-box h2 {
+		font-size: 13px;
+	}
+
+	.quiz-box p {
+		padding: 5px 10px;
+		font-size: 13px;
+		margin-bottom: 15px;
+	}
+
+	.quiz-box p span {
+		font-size: 13px;
+	}
+
+	.quiz-box p span img {
+		width: 15px;
+		margin-left: 8px;
+	}
+
+	.quiz-box a {
+		font-size: 13px;
+		padding: 6px 20px;
+	}
+
+	.doct-wrap {
+		padding: 20px 0;
+	}
+
+	.doc-left {
+		margin-top: 40px;
+		width: 250px;
+		overflow: hidden;
+	}
+
+	.doc-left-img-1 {
+		width: 100%;
+	}
+
+	.doc-left-img-2 {
+		width: 70%;
+	}
+
+	.doc-left-logo {
+		width: 80px;
+		padding: 10px;
+	}
+
+	.doc-right {
+		width: 100%;
+		margin-top: 30px;
+	}
+
+	.resources-wrap {
+		padding: 10px 0 20px 0;
+	}
+
+	.resources-in {
+		margin-bottom: 20px;
+	}
+
+	.resources-in h1 {
+		font-size: 25px;
+	}
+
+	.accordion button {
+		padding: 8px 10px;
+	}
+
+	.accordion button .accordion-title {
+		font-size: 14px;
+		padding-right: 30px;
+	}
+
+	.accordion .accordion-content p {
+		font-size: 13px;
+		padding: 10px;
+		line-height: 22px;
+	}
+
+	.resources-in a {
+		font-size: 14px;
+		padding: 6px 20px;
+		margin-top: 0px;
+	}
+
+	.still-wrap {
+		padding: 20px 0;
+	}
+
+	.still-in h1 {
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+
+	.still-in a {
+		font-size: 13px;
+		padding: 8px 20px;
+	}
+
+	.user-footer {
+		padding: 30px 0 20px 0;
+	}
+
+	.user-footer-in {
+		flex-basis: 100%;
+		padding: 0 20px !important;
+		margin-bottom: 25px;
+	}
+
+	.user-footer-in:nth-child(1) {
+		padding: 0px 0px 0px 0px;
+	}
+
+	.user-footer-in:nth-child(2) {
+		padding: 0 0px;
+	}
+
+	.user-footer-in:nth-child(3) {
+		padding: 0px 0px 0px 0px;
+		margin-bottom: 0px;
+	}
+
+	.user-footer-in img {
+		width: 60px;
+		margin-bottom: 15px;
+	}
+
+	.user-footer-in p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.user-footer-in h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.user-footer-in ul li a {
+		font-size: 13px;
+	}
+
+	#myModal-2 .modal-dialog-edit {
+		max-width: 100% !important;
+		margin: 10rem auto !important;
+	}
+
+	.edit-in form label {
+		flex-wrap: wrap;
+		justify-content: space-between;
+		gap: 10px 5px;
+		font-size: 12px;
+	}
+
+	.edit-in_txt-choose {
+		padding: 10px 10px;
+	}
+
+	.edit-in form label img {
+		width: 48%;
+		height: auto;
+		object-fit: cover;
+	}
+
+	.page-heading {
+		padding: 20px 0;
+	}
+
+	.page-heading-in a {
+		margin-right: 10px;
+	}
+
+	.page-heading-in a i {
+		font-size: 12px;
+	}
+
+	.page-heading-in h1 {
+		font-size: 15px;
+	}
+
+	.page-inner {
+		padding: 10px;
+	}
+
+	.faq-wrap {
+		display: flex;
+		gap: 20px;
+		flex-direction: column;
+	}
+
+	.faq-left {
+		width: 100%;
+	}
+
+	.faq-right {
+		width: 100%;
+	}
+
+	#accordion h1 {
+		font-size: 13px;
+		padding: 15px 10px;
+	}
+
+	#accordion h1 img {
+		width: 15px;
+		margin-right: 8px;
+	}
+
+	#accordion .panel-title-2 ul li a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a {
+		padding: 10px 0px 10px 20px;
+		font-size: 13px;
+	}
+
+	#accordion .panel-body ul {
+		padding: 10px 0px 10px 20px;
+	}
+
+	#accordion .panel-body ul li {
+		margin: 0px 0px 5px 10px;
+	}
+
+	#accordion .panel-body ul li a {
+		font-size: 13px;
+	}
+
+	#accordion .panel-title a:before, #accordion .panel-title a.collapsed:before {
+		font-size: 10px;
+		right: 15px;
+	}
+
+	.faq-right h1 {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+
+	.accordion .accordion-item {
+		border-radius: 5px;
+		margin-bottom: 10px;
+	}
+
+	.terms-in h1 {
+		font-size: 14px;
+		padding: 10px;
+		line-height: 25px;
+		border-radius: 5px 5px 0px 0px;
+	}
+
+	.terms-in p {
+		font-size: 12px;
+		line-height: 22px;
+		padding: 10px;
+		text-align: justify;
+		border-radius: 0px 0px 5px 5px;
+	}
+
+	.pass-succ {
+		border-radius: 10px;
+		padding: 20px 15px;
+	}
+
+	.pass-succ i {
+		font-size: 20px;
+		padding: 20px;
+		margin-bottom: 10px;
+	}
+
+	.pass-succ h1 {
+		font-size: 20px;
+		margin: 10px 0 10px 0;
+	}
+
+	.pass-succ p {
+		font-size: 14px;
+		margin: 10px 0;
+	}
+
+	.pass-succ a {
+		padding: 6px 25px;
+		font-size: 14px;
+	}
+
+	.password-eye {
+		top: 6px;
+	}
+
+}
