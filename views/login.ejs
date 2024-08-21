@@ -1,0 +1,53 @@
+<%- include('layouts/frontend/header') %>
+
+<div class="login-wrap">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-9 col-md-10">
+        <div class="login-in">
+          <div class="login-logo">
+            <div class="logo">
+              <img src="assets/images/logo-clr.png" />
+            </div>
+          </div>
+          <div class="login-form">
+            <% if (success_msg) { %>
+            <p class="text-center text-success"><%= success_msg %></p>
+            <% } %>
+            <form method="" action="user-dashboard-login-success.html">
+              <h1>User Sign in</h1>
+              <input type="text" class="login-txt" placeholder="Email" />
+              <label class="login-txt">
+                <input
+                  type="password"
+                  class="login-txt mb-0 pl-0"
+                  id="password"
+                  placeholder="Password"
+                />
+                <div class="password-eye">
+                  <i class="fas fa-eye-slash" id="eye"></i>
+                </div>
+              </label>
+              <label for="remember" class="login-labl">
+                <input
+                  type="checkbox"
+                  class="login-rmb"
+                  id="remember"
+                  name="remember"
+                />Remember me</label
+              >
+              <input type="submit" class="login-btn" value="Sign In" />
+              <a href="user-dashboard-login-forgot-password.html"
+                >Forgot Password?</a
+              >
+              <p>
+                Not a ful. user?
+                <a href="/">Sign up</a>
+              </p>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

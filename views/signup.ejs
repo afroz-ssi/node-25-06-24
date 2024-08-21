@@ -11,47 +11,68 @@
           </div>
           <div class="login-form">
             <form
-              method=""
-              action="user-dashboard-sign-up-verification-code.html"
+              method="POST"
+              enctype="multipart/form-data"
+              action="/register"
             >
               <h1>Sign Up</h1>
               <label class="login-txt">
                 <img src="assets/images/form-icons/1.png" alt="" />
                 <input
                   type="text"
+                  name="username"
                   class="login-txt"
                   style="padding: 0; margin-bottom: 0"
                   placeholder="Robin Jones"
                 />
               </label>
+              <% if (errors.username) { %>
+              <p class="form_error"><%= errors.username %></p>
+              <% } %>
+
               <label class="login-txt">
                 <img src="assets/images/form-icons/2.png" alt="" />
                 <input
-                  type="text"
+                  type="email"
+                  name="email"
                   class="login-txt"
                   style="padding: 0; margin-bottom: 0"
                   placeholder="robin@employerdomain.com"
                 />
                 <i class="fal fa-check-circle my-green"></i>
               </label>
+              <% if (errors.email) { %>
+              <p class="form_error"><%= errors.email %></p>
+              <% } %>
               <label class="login-txt">
                 <img src="assets/images/form-icons/3.png" alt="" />
                 <input
+                  name="password"
                   type="text"
                   class="login-txt"
                   style="padding: 0; margin-bottom: 0"
                   placeholder="Create Password"
                 />
               </label>
+              <% if (errors.password) { %>
+              <p class="form_error"><%= errors.password %></p>
+              <% } %>
               <label class="login-txt">
                 <img src="assets/images/form-icons/3.png" alt="" />
                 <input
+                  name="cpassword"
                   type="text"
                   class="login-txt"
                   style="padding: 0; margin-bottom: 0"
                   placeholder="Confirm Password"
                 />
               </label>
+              <% if (errors.cpassword) { %>
+              <p class="form_error"><%= errors.cpassword %></p>
+              <% } %> 
+              <% if (errors.exist) { %>
+              <p class="form_error"><%= errors.exist %></p>
+              <% } %>
               <input type="submit" class="login-btn" value="Sign Up" />
             </form>
           </div>

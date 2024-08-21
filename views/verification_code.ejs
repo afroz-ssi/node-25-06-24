@@ -1,0 +1,55 @@
+<%- include('layouts/frontend/header') %>
+
+<div class="login-wrap">
+  <div class="container">
+
+    <div class="row justify-content-center">
+      <div class="col-lg-9 col-md-10">
+        <div class="login-in">
+          <div class="login-logo">
+            <div class="logo">
+              <img src="assets/images/logo-clr.png" />
+            </div>
+          </div>
+          <div class="login-form">
+            <form
+              class="login-form-2"
+              method=""
+              action="user-dashboard-login-reset-password.html"
+            >
+              <h1>Verification Code</h1>
+              <p>Enter the verification code sent to your registered email.</p>
+              <div class="otp-code">
+                <input type="number" class="login-txt-1" minlength="1" maxlength="1"  oninput="moveFocus(this)" onKeyPress="if(this.value.length==1) return false;" />
+                <input type="number" class="login-txt-1" minlength="1" maxlength="1"   oninput="moveFocus(this)" onKeyPress="if(this.value.length==1) return false;" />
+                <input type="number" class="login-txt-1" minlength="1" maxlength="1"   oninput="moveFocus(this)" onKeyPress="if(this.value.length==1) return false;" />
+                <input type="number" class="login-txt-1" minlength="1" maxlength="1"   oninput="moveFocus(this)" onKeyPress="if(this.value.length==1) return false;" />
+              </div>
+              <input type="submit" class="login-btn" value="Submit" />
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+  </div>
+</div>
+
+
+<!-- Congratulations popup -->
+    <div class="login-wrap" style="display: none;">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-4 col-md-6">
+            <div class="pass-succ">
+              <i class="far fa-check"></i>
+              <h1>Congratulations!</h1>
+              <p>You have successfully joined ful.</p>
+              <a href="user-dashboard.html">Ok</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
